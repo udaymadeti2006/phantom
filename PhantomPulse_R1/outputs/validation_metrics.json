@@ -1,0 +1,10 @@
+{
+  "primary_score_precision_at_20": 0.4492673992673993,
+  "row_recall": 0.47723735408560314,
+  "episode_recall": 0.24921135646687698,
+  "hits": 2453,
+  "positive_rows": 5140,
+  "positive_episodes": 634,
+  "scored_store_days": 273,
+  "mean_rows_per_store_day": 20.0
+}

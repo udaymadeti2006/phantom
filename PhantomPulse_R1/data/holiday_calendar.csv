@@ -1,0 +1,28 @@
+date,holiday_name,holiday_type,scope,date_certainty
+2025-01-14,Makar Sankranti / Pongal,festival,national,lunar_solar_regional
+2025-01-26,Republic Day,national_holiday,national,fixed
+2025-03-14,Holi,festival,national,lunar
+2025-03-31,Eid ul-Fitr,festival,national,moon_sighting
+2025-06-07,Eid ul-Adha (Bakrid),festival,national,moon_sighting
+2025-08-09,Raksha Bandhan,festival,north_west,lunar
+2025-08-15,Independence Day,national_holiday,national,fixed
+2025-08-16,Janmashtami,festival,national,lunar (Smarta observance 2025-08-15)
+2025-08-27,Ganesh Chaturthi,festival,west_south,lunar
+2025-09-05,Onam (Thiruvonam),festival,south,lunar
+2025-10-02,Gandhi Jayanti / Dussehra,festival,national,lunar
+2025-10-20,Diwali,festival,national,lunar
+2025-12-25,Christmas,festival,national,fixed
+2026-01-14,Makar Sankranti / Pongal,festival,national,lunar_solar_regional
+2026-01-26,Republic Day,national_holiday,national,fixed
+2026-03-04,Holi,festival,national,lunar
+2026-03-21,Eid ul-Fitr,festival,national,moon_sighting
+2026-05-27,Eid ul-Adha (Bakrid),festival,national,moon_sighting
+2026-08-15,Independence Day,national_holiday,national,fixed
+2026-08-26,Onam (Thiruvonam),festival,south,lunar
+2026-08-28,Raksha Bandhan,festival,north_west,lunar
+2026-09-04,Janmashtami,festival,national,lunar (Smarta observance may be 2026-09-03)
+2026-09-14,Ganesh Chaturthi,festival,west_south,lunar
+2026-10-02,Gandhi Jayanti,national_holiday,national,fixed
+2026-10-20,Dussehra,festival,national,lunar
+2026-11-08,Diwali,festival,national,lunar
+2026-12-25,Christmas,festival,national,fixed

@@ -1,0 +1,26 @@
+store_id,store_name,format,size_sqft,city,state,city_tier,region,opening_date,label_split
+STR-06EU,Saffron Hyper Edappally,Hyper,50700,Kochi,Kerala,2,South,2022-03-21,dev_labelled
+STR-0UF9,Saffron Market MVP Colony,Market,10300,Visakhapatnam,Andhra Pradesh,2,South,2020-03-27,test_hidden
+STR-0XRP,Saffron Express Indiranagar,Express,2900,Bengaluru,Karnataka,1,South,2020-11-14,test_hidden
+STR-1DFN,Saffron Market Palakkad,Market,14000,Palakkad,Kerala,3,South,2022-03-21,test_hidden
+STR-32ZZ,Saffron Hyper Kharadi,Hyper,53200,Pune,Maharashtra,1,West,2014-07-22,test_hidden
+STR-5J19,Saffron Hyper Gachibowli,Hyper,68500,Hyderabad,Telangana,1,South,2016-12-27,test_hidden
+STR-7TC6,Saffron Hyper Salt Lake,Hyper,44400,Kolkata,West Bengal,1,East,2021-04-10,test_hidden
+STR-A0J9,Saffron Hyper Bopal,Hyper,56700,Ahmedabad,Gujarat,1,West,2019-08-16,test_hidden
+STR-BFPW,Saffron Market Gomti Nagar,Market,14900,Lucknow,Uttar Pradesh,2,North,2015-08-24,dev_labelled
+STR-C6U5,Saffron Hyper Whitefield,Hyper,44200,Bengaluru,Karnataka,1,South,2013-05-30,dev_labelled
+STR-D7PR,Saffron Market Vijay Nagar,Market,11100,Indore,Madhya Pradesh,2,Central,2019-10-13,dev_labelled
+STR-ENID,Saffron Market Malviya Nagar,Market,10300,Jaipur,Rajasthan,2,North,2014-07-09,dev_labelled
+STR-FYR2,Saffron Hyper Velachery,Hyper,60000,Chennai,Tamil Nadu,1,South,2016-08-05,dev_labelled
+STR-GT91,Saffron Market Dharampeth,Market,11000,Nagpur,Maharashtra,2,West,2022-02-05,test_hidden
+STR-H5GD,Saffron Express Anand,Express,1700,Anand,Gujarat,3,West,2018-02-25,dev_labelled
+STR-H7AO,Saffron Express Udupi,Express,2600,Udupi,Karnataka,3,South,2021-02-14,dev_labelled
+STR-I2FU,Saffron Market Saheed Nagar,Market,14300,Bhubaneswar,Odisha,2,East,2019-09-13,dev_labelled
+STR-II7N,Saffron Express Lajpat Nagar,Express,2500,Delhi,Delhi,1,North,2018-07-08,test_hidden
+STR-JM18,Saffron Express Bandra West,Express,2500,Mumbai,Maharashtra,1,West,2022-08-05,dev_labelled
+STR-QN4Q,Saffron Express Baner,Express,3200,Pune,Maharashtra,1,West,2018-06-09,dev_labelled
+STR-R1W7,Saffron Hyper Dwarka,Hyper,46500,Delhi,Delhi,1,North,2023-07-28,dev_labelled
+STR-RIU0,Saffron Market Satara,Market,14400,Satara,Maharashtra,3,West,2020-03-10,test_hidden
+STR-S0GJ,Saffron Express Madhapur,Express,2600,Hyderabad,Telangana,1,South,2023-07-08,test_hidden
+STR-TM3Z,Saffron Hyper Powai,Hyper,71800,Mumbai,Maharashtra,1,West,2016-02-27,dev_labelled
+STR-YMG4,Saffron Market RS Puram,Market,12700,Coimbatore,Tamil Nadu,2,South,2023-09-28,test_hidden

@@ -1,0 +1,801 @@
+sku_id,sku_name,category,sub_category,brand,pack_size,unit_price_inr,unit_cost_inr,unit_margin_inr,shelf_life_class,case_pack
+SKU-02PUN3,Plugzy USB-C Charging Cable 1 m 1 pc,General Merchandise,Mobile Accessories,Plugzy,1 pc,299.0,186.34,112.66,long,4
+SKU-0418KD,Dabba Diaries Green Chilli Sauce 200 g,Packaged Foods,"Sauces, Spreads & Pickles",Dabba Diaries,200 g,60.0,49.7,10.3,long,6
+SKU-042C4R,Madhu Vatika Multivitamin Gummies 30 pcs,Health & Wellness,Health & Wellness,Madhu Vatika,30 pcs,439.0,353.7,85.3,long,4
+SKU-047AZA,Himkulfi Frozen French Fries 420 g,Dairy & Frozen,Ice Cream & Frozen,Himkulfi,420 g,120.0,99.48,20.52,frozen,6
+SKU-07O8O8,Chatpata Chef Khatta Meetha Mix 200 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,200 g,55.0,45.59,9.41,short,6
+SKU-095EJX,Gwala Fresh Flavoured Milk Kesar Badam 180 ml,Dairy & Frozen,Dairy & Chilled,Gwala Fresh,180 ml,30.0,26.82,3.18,chilled,12
+SKU-0AE5LI,Ujjwal Wash Detergent Powder 1 kg,Home Care,Laundry,Ujjwal Wash,1 kg,115.0,100.01,14.99,long,12
+SKU-0BL7R6,Saffron Select Idli Rice 1 kg,Staples,Rice,Saffron Select,1 kg,47.0,42.17,4.83,long,6
+SKU-0DN9KI,Ujjwal Wash Fabric Conditioner 860 ml,Home Care,Laundry,Ujjwal Wash,860 ml,229.0,196.95,32.05,long,4
+SKU-0EFJI4,Komal Kaya Lime Fresh Bathing Soap 4 x 125 g,Personal Care,Bath & Body,Komal Kaya,4 x 125 g,170.0,138.48,31.52,long,24
+SKU-0F8F1F,Kashmeer Crest Dry Fruit Gift Box 500 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,500 g,679.0,541.34,137.66,long,3
+SKU-0FRU7T,Sunehri Ghani Rice Bran Oil 1 L,Staples,Edible Oils,Sunehri Ghani,1 L,160.0,148.81,11.19,long,6
+SKU-0GPXAP,Saffron Select Kachi Ghani Mustard Oil 5 L,Staples,Edible Oils,Saffron Select,5 L,769.0,723.0,46.0,long,3
+SKU-0JDJUH,Kheti Kanak Whole Wheat Atta 10 kg,Staples,Atta & Flours,Kheti Kanak,10 kg,539.0,497.33,41.67,long,3
+SKU-0KNNLT,Dabba Diaries Seviyan Kheer Mix 200 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Dabba Diaries,200 g,90.0,72.49,17.51,short,6
+SKU-0L3ZMD,Gwala Fresh Salted Butter 100 g,Dairy & Frozen,Dairy & Chilled,Gwala Fresh,100 g,60.0,54.71,5.29,chilled,12
+SKU-0LNQ4H,Nanhe Kadam Diaper Pants Small 42 pcs,Baby Care,Baby Care,Nanhe Kadam,42 pcs,649.0,549.3,99.7,long,3
+SKU-0N9XUH,Badam Bagh Whole Cashews W320 500 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,500 g,589.0,477.47,111.53,long,3
+SKU-0NJXR5,Saffron Select Premium Leaf Tea 500 g,Beverages,Tea,Saffron Select,500 g,249.0,208.45,40.55,long,4
+SKU-0O6YTK,Kohl & Co BB Cream 30 g,Personal Care,Cosmetics,Kohl & Co,30 g,249.0,170.72,78.28,long,4
+SKU-0OOPKR,Glowmitra Prickly Heat Powder 150 g,Personal Care,Skin Care,Glowmitra,150 g,135.0,95.64,39.36,long,4
+SKU-0PD568,Komal Kaya Natural Black Hair Colour 1 kit,Personal Care,Hair Care,Komal Kaya,1 kit,42.0,32.71,9.29,long,6
+SKU-0TFD67,Dabba Diaries Ready-to-Eat Dal Makhani 300 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Dabba Diaries,300 g,115.0,93.09,21.91,short,6
+SKU-0V877M,Bartan Bazaar Steel Water Bottle 1 L,General Merchandise,Kitchenware,Bartan Bazaar,1 L,349.0,242.49,106.51,long,4
+SKU-0W72CO,Fizzora Lemon Lime Soda 2 L,Beverages,Soft Drinks,Fizzora,2 L,95.0,83.6,11.4,short,6
+SKU-0WSATW,Dhaanya Sutra Kolam Rice 5 kg,Staples,Rice,Dhaanya Sutra,5 kg,329.0,301.32,27.68,long,6
+SKU-0YE4II,Malai Meadows Frozen French Fries 420 g,Dairy & Frozen,Ice Cream & Frozen,Malai Meadows,420 g,120.0,98.52,21.48,frozen,6
+SKU-105P6Y,Kheti Kanak Kachi Ghani Mustard Oil 5 L,Staples,Edible Oils,Kheti Kanak,5 L,939.0,867.03,71.97,long,3
+SKU-10D597,Saffron Select Urad Dal 1 kg,Staples,Pulses & Dals,Saffron Select,1 kg,130.0,118.95,11.05,long,10
+SKU-10U38N,Sunehri Ghani Filtered Groundnut Oil 1 L,Staples,Edible Oils,Sunehri Ghani,1 L,209.0,195.55,13.45,long,12
+SKU-11CLNL,WrapWell Safety Matchboxes 10 boxes,Home Care,Household Essentials,WrapWell,10 boxes,19.0,14.96,4.04,long,6
+SKU-13YVFR,Fizzora Cola 2 L,Beverages,Soft Drinks,Fizzora,2 L,95.0,81.82,13.18,short,6
+SKU-171DEO,Gramin Sona Moong Dal 1 kg,Staples,Pulses & Dals,Gramin Sona,1 kg,140.0,127.44,12.56,long,10
+SKU-1B0XJO,Crunchwala Potato Chips Classic Salted 50 g,Packaged Foods,Namkeen & Chips,Crunchwala,50 g,20.0,16.77,3.23,short,24
+SKU-1CGE7I,Bubble Bunny Diaper Pants Large 32 pcs,Baby Care,Baby Care,Bubble Bunny,32 pcs,709.0,609.95,99.05,long,3
+SKU-1EEWVU,Komal Kaya Talcum Powder 300 g,Personal Care,Bath & Body,Komal Kaya,300 g,219.0,170.09,48.91,long,24
+SKU-1F36T9,Ujjwal Wash Scrub Pads 3 pcs,Home Care,Dishwash,Ujjwal Wash,3 pcs,43.0,35.5,7.5,long,6
+SKU-1H60ZK,Dhaanya Sutra Sona Masoori Rice 10 kg,Staples,Rice,Dhaanya Sutra,10 kg,619.0,558.48,60.52,long,3
+SKU-1HL10H,Komal Kaya Cold Cream 200 ml,Personal Care,Skin Care,Komal Kaya,200 ml,229.0,158.69,70.31,long,6
+SKU-1HZ4WW,Ujjwal Wash Liquid Fabric Whitener 250 ml,Home Care,Laundry,Ujjwal Wash,250 ml,40.0,33.99,6.01,long,6
+SKU-1IEKES,Aarti Aangan Cotton Wicks 100 pcs,Puja & Festive,Puja Essentials,Aarti Aangan,100 pcs,28.0,18.97,9.03,long,6
+SKU-1LHC08,Aarti Aangan Pure Camphor Tablets 50 g,Puja & Festive,Puja Essentials,Aarti Aangan,50 g,110.0,75.68,34.32,long,6
+SKU-1LYUXL,Rasoi Rang Green Cardamom (Elaichi) 50 g,Spices & Masalas,Whole Spices,Rasoi Rang,50 g,259.0,202.42,56.58,long,4
+SKU-1QQCEW,ChamakMax Detergent Powder 4 kg,Home Care,Laundry,ChamakMax,4 kg,499.0,435.05,63.95,long,6
+SKU-1S6YJV,Malai Meadows Pure Cow Ghee 200 ml,Staples,Ghee,Malai Meadows,200 ml,150.0,138.55,11.45,long,6
+SKU-1T2HK1,Komal Kaya Handwash Refill Pouch 750 ml,Personal Care,Bath & Body,Komal Kaya,750 ml,100.0,81.19,18.81,long,24
+SKU-1TD7J6,SmoothEdge Deodorant Spray Musk 150 ml,Personal Care,Men's Grooming,SmoothEdge,150 ml,229.0,152.9,76.1,long,6
+SKU-1TSWT4,Badam Bagh Roasted Salted Pistachios 200 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,200 g,329.0,275.63,53.37,long,6
+SKU-1VHFAN,Chatpata Chef Creamy Peanut Butter 340 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,340 g,209.0,175.39,33.61,long,4
+SKU-1VZOM3,Malai Meadows Vanilla Ice Cream Tub 700 ml,Dairy & Frozen,Ice Cream & Frozen,Malai Meadows,700 ml,180.0,139.83,40.17,frozen,6
+SKU-1WIEHG,ChamakMax Scrub Pads 3 pcs,Home Care,Dishwash,ChamakMax,3 pcs,40.0,33.27,6.73,long,24
+SKU-1WW76N,Himkulfi Chocolate Cone 110 ml,Dairy & Frozen,Ice Cream & Frozen,Himkulfi,110 ml,50.0,41.0,9.0,frozen,6
+SKU-1XMWJ2,Pahadi Patti Premium Leaf Tea 1 kg,Beverages,Tea,Pahadi Patti,1 kg,559.0,470.02,88.98,long,3
+SKU-228XKB,Masala Mehfil Sambar Powder 100 g,Spices & Masalas,Ground Spices,Masala Mehfil,100 g,55.0,45.1,9.9,long,6
+SKU-22G5FZ,Kheti Kanak Kachi Ghani Mustard Oil 1 L,Staples,Edible Oils,Kheti Kanak,1 L,175.0,162.56,12.44,long,12
+SKU-24PACI,Glowmitra Sunscreen SPF 50 50 g,Personal Care,Skin Care,Glowmitra,50 g,359.0,245.81,113.19,long,6
+SKU-25AGIO,Ujjwal Wash Detergent Bar 4 x 250 g,Home Care,Laundry,Ujjwal Wash,4 x 250 g,115.0,97.42,17.58,long,12
+SKU-25YTFD,SmoothEdge 3-Blade Razor 1 pc,Personal Care,Men's Grooming,SmoothEdge,1 pc,299.0,202.12,96.88,long,4
+SKU-2B6YOP,Saffron Select Liquid Fabric Whitener 250 ml,Home Care,Laundry,Saffron Select,250 ml,34.0,28.88,5.12,long,6
+SKU-2G2F5M,Zaika Zone Red Chilli Powder 100 g,Spices & Masalas,Ground Spices,Zaika Zone,100 g,44.0,36.87,7.13,long,6
+SKU-2L9GLT,Badam Bagh California Almonds 200 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,200 g,219.0,175.65,43.35,long,6
+SKU-2LY5RJ,Mithas Mahal Soan Papdi 500 g,Chocolates & Sweets,Sweets & Mithai,Mithas Mahal,500 g,175.0,133.81,41.19,short,4
+SKU-2ODH0C,Gwala Fresh Processed Cheese Slices 200 g,Dairy & Frozen,Dairy & Chilled,Gwala Fresh,200 g,150.0,133.78,16.22,chilled,12
+SKU-2QSBRY,Pavitra Path Dhoop Cones 20 pcs,Puja & Festive,Puja Essentials,Pavitra Path,20 pcs,50.0,35.09,14.91,long,6
+SKU-2QVWO5,Sunehri Ghani Sendha Namak (Rock Salt) 1 kg,Staples,"Sugar, Salt & Jaggery",Sunehri Ghani,1 kg,75.0,69.79,5.21,long,6
+SKU-2RIUZC,Saffron Select Besan 1 kg,Staples,Atta & Flours,Saffron Select,1 kg,95.0,86.87,8.13,long,6
+SKU-2RW459,Zaika Zone Green Cardamom (Elaichi) 50 g,Spices & Masalas,Whole Spices,Zaika Zone,50 g,269.0,212.91,56.09,long,4
+SKU-2SMXKT,Saffron Select Ponni Boiled Rice 1 kg,Staples,Rice,Saffron Select,1 kg,55.0,49.77,5.23,long,6
+SKU-2T1G99,Neem Nirmal Herbal Toothpaste 150 g,Personal Care,Oral Care,Neem Nirmal,150 g,115.0,92.93,22.07,long,6
+SKU-2UHPSN,Brewbay Malt Health Drink Jar 500 g,Beverages,Health Drinks,Brewbay,500 g,299.0,259.19,39.81,long,6
+SKU-2UUTE2,Tresslyn Pure Coconut Hair Oil 300 ml,Personal Care,Hair Care,Tresslyn,300 ml,150.0,116.01,33.99,long,24
+SKU-2UYIZZ,Kheti Kanak Kuttu Atta 500 g,Staples,Atta & Flours,Kheti Kanak,500 g,95.0,85.28,9.72,long,4
+SKU-2WPPJ9,Himkulfi Malai Kulfi Stick 60 ml,Dairy & Frozen,Ice Cream & Frozen,Himkulfi,60 ml,30.0,24.49,5.51,frozen,6
+SKU-2Z28C0,Komal Kaya Sanitary Pads XL 30 pads,Personal Care,Feminine Hygiene,Komal Kaya,30 pads,309.0,244.83,64.17,long,6
+SKU-2ZB5P7,Plugzy 20 W Fast Charger 1 pc,General Merchandise,Mobile Accessories,Plugzy,1 pc,699.0,409.29,289.71,long,3
+SKU-30BD4O,Kheti Kanak Ragi Flour 500 g,Staples,Atta & Flours,Kheti Kanak,500 g,55.0,50.17,4.83,long,6
+SKU-31HTOQ,Gramin Sona Ragi Flour 1 kg,Staples,Atta & Flours,Gramin Sona,1 kg,100.0,90.2,9.8,long,4
+SKU-3396I5,Badam Bagh Dry Fruit Gift Box 500 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,500 g,649.0,526.33,122.67,long,3
+SKU-33OZQP,Gwala Fresh Fresh Paneer 200 g,Dairy & Frozen,Dairy & Chilled,Gwala Fresh,200 g,95.0,85.36,9.64,chilled,12
+SKU-33XK69,Urjaa Cell 9V Battery 1 pc,General Merchandise,Batteries,Urjaa Cell,1 pc,209.0,150.54,58.46,long,4
+SKU-35ZQC7,Kheti Kanak Multigrain Atta 1 kg,Staples,Atta & Flours,Kheti Kanak,1 kg,90.0,82.59,7.41,long,6
+SKU-36C9PR,Chatpata Chef Dark Soy Sauce 200 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,200 g,60.0,48.76,11.24,long,12
+SKU-374SMM,Rasoi Rang Rasam Powder 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,50.0,41.61,8.39,long,24
+SKU-379U6T,Dhaanya Sutra Urad Dal 500 g,Staples,Pulses & Dals,Dhaanya Sutra,500 g,80.0,74.4,5.6,long,10
+SKU-394VGO,Komal Kaya Smooth & Shine Shampoo 650 ml,Personal Care,Hair Care,Komal Kaya,650 ml,639.0,497.48,141.52,long,3
+SKU-39JP8Y,Malai Meadows Fresh Cream 250 ml,Dairy & Frozen,Dairy & Chilled,Malai Meadows,250 ml,75.0,68.05,6.95,chilled,12
+SKU-3A6FGC,Komal Kaya Oil Control Face Wash 100 g,Personal Care,Skin Care,Komal Kaya,100 g,180.0,132.96,47.04,long,4
+SKU-3E70NW,Dhaanya Sutra Masoor Dal 500 g,Staples,Pulses & Dals,Dhaanya Sutra,500 g,55.0,50.9,4.1,long,10
+SKU-3F825J,Neem Nirmal Oil Control Face Wash 100 g,Personal Care,Skin Care,Neem Nirmal,100 g,180.0,124.31,55.69,long,6
+SKU-3IMX4X,Roshni Home LED Bulb 12 W 1 pc,General Merchandise,Electricals,Roshni Home,1 pc,125.0,82.8,42.2,long,4
+SKU-3ISZY1,Phalwala Packaged Drinking Water 1 L,Beverages,Juices & Water,Phalwala,1 L,20.0,16.83,3.17,short,12
+SKU-3Q8Y9X,Crunchwala Glucose Biscuits 200 g,Packaged Foods,Biscuits & Cookies,Crunchwala,200 g,27.0,23.23,3.77,short,24
+SKU-3U25LE,Saffron Select Whole Cashews W320 500 g,Dry Fruits & Nuts,Dry Fruits,Saffron Select,500 g,509.0,431.03,77.97,long,3
+SKU-3XV8MH,Chatpata Chef Aloo Bhujia 400 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,400 g,95.0,78.65,16.35,short,24
+SKU-3YCL49,VoltPeak AA Heavy Duty Batteries 10 pcs,General Merchandise,Batteries,VoltPeak,10 pcs,120.0,86.24,33.76,long,4
+SKU-3Z6M8K,Neem Nirmal Germ Protection Soap 3 x 125 g,Personal Care,Bath & Body,Neem Nirmal,3 x 125 g,155.0,124.04,30.96,long,6
+SKU-3ZWHV2,Kheti Kanak Basmati Rice Rozana 1 kg,Staples,Rice,Kheti Kanak,1 kg,120.0,108.96,11.04,long,6
+SKU-40QER6,Kaapi Kudil Classic Instant Coffee Jar 100 g,Beverages,Coffee,Kaapi Kudil,100 g,399.0,331.34,67.66,long,4
+SKU-40YA8K,ChaiCraft Strong Dust Tea 500 g,Beverages,Tea,ChaiCraft,500 g,259.0,225.39,33.61,long,6
+SKU-43U424,Kheti Kanak Bombay Rava (Sooji) 500 g,Staples,Atta & Flours,Kheti Kanak,500 g,38.0,34.91,3.09,long,6
+SKU-45PTJN,Mithas Mahal Soan Papdi 250 g,Chocolates & Sweets,Sweets & Mithai,Mithas Mahal,250 g,90.0,67.37,22.63,short,6
+SKU-45XY23,Bakeshala Fruit Cake Slice 60 g,Packaged Foods,Bakery & Cakes,Bakeshala,60 g,20.0,16.33,3.67,short,12
+SKU-48RPMQ,Shuddh Ghar Toilet Tissue Rolls 4 rolls,Home Care,Household Essentials,Shuddh Ghar,4 rolls,160.0,114.13,45.87,long,6
+SKU-494Y3G,Saffron Select Chana Dal 1 kg,Staples,Pulses & Dals,Saffron Select,1 kg,85.0,77.55,7.45,long,4
+SKU-4A144A,Dabba Diaries Instant Masala Oats 38 g,Packaged Foods,Breakfast Cereals,Dabba Diaries,38 g,14.0,12.05,1.95,short,6
+SKU-4C55P4,Pustak Pro Blue Ball Pens 10 pcs,General Merchandise,Stationery,Pustak Pro,10 pcs,50.0,33.97,16.03,long,6
+SKU-4DOE97,Sunehri Ghani Jaggery Powder 500 g,Staples,"Sugar, Salt & Jaggery",Sunehri Ghani,500 g,70.0,65.82,4.18,long,6
+SKU-4E8X9U,Gramin Sona Urad Dal 500 g,Staples,Pulses & Dals,Gramin Sona,500 g,80.0,72.88,7.12,long,10
+SKU-4EC3BC,Glowmitra Matte Lipstick Ruby Red 3.5 g,Personal Care,Cosmetics,Glowmitra,3.5 g,319.0,192.0,127.0,long,4
+SKU-4IF565,Komal Kaya Shower Gel 250 ml,Personal Care,Bath & Body,Komal Kaya,250 ml,249.0,197.31,51.69,long,4
+SKU-4KKCKR,Rasoi Rang Garam Masala 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,80.0,67.53,12.47,long,24
+SKU-4KWSXD,Chocobahar Fruit Toffee Jar 100 pcs,Chocolates & Sweets,Chocolates & Confectionery,Chocobahar,100 pcs,140.0,114.98,25.02,short,4
+SKU-4OYN46,Gramin Sona Sendha Namak (Rock Salt) 1 kg,Staples,"Sugar, Salt & Jaggery",Gramin Sona,1 kg,75.0,70.47,4.53,long,4
+SKU-4RA8UK,Neem Nirmal Natural Black Hair Colour 1 kit,Personal Care,Hair Care,Neem Nirmal,1 kit,47.0,34.84,12.16,long,4
+SKU-4RF1UX,Kheti Kanak Thick Poha 1 kg,Staples,Poha & Breakfast Staples,Kheti Kanak,1 kg,85.0,74.6,10.4,long,6
+SKU-4TJGJS,Masala Mehfil Kitchen King Masala 100 g,Spices & Masalas,Ground Spices,Masala Mehfil,100 g,80.0,65.77,14.23,long,4
+SKU-4UG0OK,Dabba Diaries Ready-to-Eat Paneer Butter Masala 285 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Dabba Diaries,285 g,140.0,115.15,24.85,short,6
+SKU-4VNR30,Saffron Select Basmati Rice Rozana 5 kg,Staples,Rice,Saffron Select,5 kg,449.0,413.91,35.09,long,4
+SKU-4WHNJ1,Glowmitra Matte Lipstick Berry Wine 3.5 g,Personal Care,Cosmetics,Glowmitra,3.5 g,289.0,175.6,113.4,long,4
+SKU-4ZMFTW,Dabba Diaries Thick Poha 500 g,Staples,Poha & Breakfast Staples,Dabba Diaries,500 g,41.0,36.14,4.86,long,12
+SKU-51528P,Pavitra Path Rose Agarbatti 100 g,Puja & Festive,Puja Essentials,Pavitra Path,100 g,70.0,47.81,22.19,long,6
+SKU-54IUDX,Masala Mehfil Chole Masala 100 g,Spices & Masalas,Ground Spices,Masala Mehfil,100 g,85.0,68.0,17.0,long,4
+SKU-58N8YC,Gramin Sona Whole Wheat Atta 1 kg,Staples,Atta & Flours,Gramin Sona,1 kg,55.0,49.69,5.31,long,6
+SKU-5AU1OC,Malai Meadows Butterscotch Ice Cream Tub 700 ml,Dairy & Frozen,Ice Cream & Frozen,Malai Meadows,700 ml,209.0,172.93,36.07,frozen,6
+SKU-5BK4Z7,Cocoa Kahani Sugar-free Mint Gum 9 pcs,Chocolates & Sweets,Chocolates & Confectionery,Cocoa Kahani,9 pcs,30.0,24.48,5.52,short,24
+SKU-5BVWTX,Kheti Kanak Rolled Oats 1 kg,Staples,Poha & Breakfast Staples,Kheti Kanak,1 kg,195.0,169.18,25.82,long,6
+SKU-5DGR1W,Gwala Fresh Set Curd Cup 400 g,Dairy & Frozen,Dairy & Chilled,Gwala Fresh,400 g,50.0,44.66,5.34,chilled,12
+SKU-5DIF65,Kheti Kanak Whole Wheat Atta 1 kg,Staples,Atta & Flours,Kheti Kanak,1 kg,60.0,54.46,5.54,long,6
+SKU-5DP4T0,Gramin Sona Masoor Dal 1 kg,Staples,Pulses & Dals,Gramin Sona,1 kg,110.0,100.41,9.59,long,6
+SKU-5F2O2L,Kheti Kanak Filtered Groundnut Oil 1 L,Staples,Edible Oils,Kheti Kanak,1 L,219.0,204.27,14.73,long,12
+SKU-5G8XGK,Neem Nirmal Lime Fresh Bathing Soap 125 g,Personal Care,Bath & Body,Neem Nirmal,125 g,41.0,32.21,8.79,long,24
+SKU-5GPAFU,Neem Nirmal Handwash Pump 200 ml,Personal Care,Bath & Body,Neem Nirmal,200 ml,105.0,86.11,18.89,long,6
+SKU-5HZVOL,Rasoi Rang Upma Mix 200 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Rasoi Rang,200 g,60.0,48.99,11.01,short,6
+SKU-5JYY6D,SmoothEdge Deodorant Spray Fresh Citrus 150 ml,Personal Care,Men's Grooming,SmoothEdge,150 ml,229.0,167.85,61.15,long,4
+SKU-5TD0YF,Kheti Kanak Sabudana 500 g,Staples,Atta & Flours,Kheti Kanak,500 g,60.0,54.75,5.25,long,6
+SKU-5TINYO,Sunrise Bowl Chocolate Wheat Scoops 375 g,Packaged Foods,Breakfast Cereals,Sunrise Bowl,375 g,219.0,187.19,31.81,short,6
+SKU-5XDR0S,Chatpata Chef Eggless Mayonnaise 250 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,250 g,100.0,81.21,18.79,long,6
+SKU-61XR4R,Pustak Pro A4 Copier Paper 500 sheets,General Merchandise,Stationery,Pustak Pro,500 sheets,289.0,210.24,78.76,long,4
+SKU-6646PI,Dabba Diaries Tomato Ketchup 500 g,Packaged Foods,"Sauces, Spreads & Pickles",Dabba Diaries,500 g,90.0,76.99,13.01,long,12
+SKU-664XPT,Tresslyn Frizz Control Hair Serum 100 ml,Personal Care,Hair Care,Tresslyn,100 ml,299.0,215.56,83.44,long,24
+SKU-67UWEB,Balshakti Malt Health Drink Jar 500 g,Beverages,Health Drinks,Balshakti,500 g,269.0,227.05,41.95,long,6
+SKU-6BZD6S,Kohl & Co Liquid Eyeliner 3 ml,Personal Care,Cosmetics,Kohl & Co,3 ml,200.0,129.14,70.86,long,4
+SKU-6D86VM,Saffron Select Pure Coconut Oil 500 ml,Staples,Edible Oils,Saffron Select,500 ml,190.0,175.93,14.07,long,6
+SKU-6H69BQ,Machhar Mukt Mosquito Coils 10 pcs,Home Care,Pest Control,Machhar Mukt,10 pcs,45.0,36.88,8.12,long,6
+SKU-6JV9HP,Gramin Sona Maida 1 kg,Staples,Atta & Flours,Gramin Sona,1 kg,55.0,50.08,4.92,long,4
+SKU-6L1Y3Y,WrapWell White Candles 6 pcs,Home Care,Household Essentials,WrapWell,6 pcs,60.0,47.21,12.79,long,6
+SKU-6MYVHW,Masala Mehfil Red Chilli Powder 100 g,Spices & Masalas,Ground Spices,Masala Mehfil,100 g,47.0,37.92,9.08,long,6
+SKU-6NMEFF,Sakhi Care Sanitary Pads XL 7 pads,Personal Care,Feminine Hygiene,Sakhi Care,7 pads,70.0,57.62,12.38,long,6
+SKU-6P6YDW,Utsav Ghar Decorative Torans 1 pc,Puja & Festive,Festive Seasonal,Utsav Ghar,1 pc,219.0,133.68,85.32,long,4
+SKU-6S41IJ,Glowmitra Day Cream SPF 15 50 g,Personal Care,Skin Care,Glowmitra,50 g,249.0,173.47,75.53,long,4
+SKU-6T8WNU,Thanda Tonic Mango Drink 600 ml,Beverages,Juices & Water,Thanda Tonic,600 ml,37.0,31.71,5.29,short,12
+SKU-6VAC3T,Saffron Select Naphthalene Balls 100 g,Home Care,Household Essentials,Saffron Select,100 g,39.0,28.94,10.06,long,6
+SKU-6VWQ78,Pahadi Patti Masala Chai Blend 250 g,Beverages,Tea,Pahadi Patti,250 g,165.0,137.92,27.08,long,24
+SKU-6XQMXZ,Thanda Tonic Litchi Juice 1 L,Beverages,Juices & Water,Thanda Tonic,1 L,130.0,110.46,19.54,short,4
+SKU-70I0XT,Saffron Select Premium Leaf Tea 1 kg,Beverages,Tea,Saffron Select,1 kg,479.0,417.29,61.71,long,24
+SKU-72G4IZ,Madhu Vatika Pure Honey 250 g,Health & Wellness,Health & Wellness,Madhu Vatika,250 g,155.0,119.12,35.88,long,4
+SKU-74Q80F,VoltPeak CR2032 Coin Cell 1 pc,General Merchandise,Batteries,VoltPeak,1 pc,60.0,41.01,18.99,long,4
+SKU-751YY9,Biskit Basket Plum Cake 400 g,Packaged Foods,Bakery & Cakes,Biskit Basket,400 g,299.0,230.79,68.21,short,4
+SKU-7524IK,Dabba Diaries Chocolate Wheat Scoops 375 g,Packaged Foods,Breakfast Cereals,Dabba Diaries,375 g,200.0,171.52,28.48,short,4
+SKU-7AXOUW,Pustak Pro Ruled Notebook 172 Pages 1 pc,General Merchandise,Stationery,Pustak Pro,1 pc,55.0,36.35,18.65,long,6
+SKU-7FXXDZ,Rasoi Rang Jeera (Cumin Seeds) 200 g,Spices & Masalas,Whole Spices,Rasoi Rang,200 g,125.0,99.69,25.31,long,4
+SKU-7G00RH,Zaika Zone Kitchen King Masala 100 g,Spices & Masalas,Ground Spices,Zaika Zone,100 g,80.0,65.51,14.49,long,6
+SKU-7GIVAF,Dhaanya Sutra Kolam Rice 1 kg,Staples,Rice,Dhaanya Sutra,1 kg,70.0,62.99,7.01,long,6
+SKU-7LDQD9,Prakash Plus LED Bulb 12 W 1 pc,General Merchandise,Electricals,Prakash Plus,1 pc,140.0,92.99,47.01,long,6
+SKU-7PFN5S,Gramin Sona Toor Dal 500 g,Staples,Pulses & Dals,Gramin Sona,500 g,85.0,78.77,6.23,long,10
+SKU-7PIQMN,Danta Shakti Herbal Toothpaste 150 g,Personal Care,Oral Care,Danta Shakti,150 g,115.0,91.31,23.69,long,6
+SKU-7RD54M,Zaika Zone Kashmiri Saffron (Kesar) 1 g,Spices & Masalas,Whole Spices,Zaika Zone,1 g,279.0,219.32,59.68,long,4
+SKU-7S2Q5W,Dabba Diaries Marie Biscuits 250 g,Packaged Foods,Biscuits & Cookies,Dabba Diaries,250 g,38.0,32.2,5.8,short,6
+SKU-7WCN7J,Kohl & Co Nail Enamel Cherry 9 ml,Personal Care,Cosmetics,Kohl & Co,9 ml,100.0,65.7,34.3,long,4
+SKU-7WRWD1,Chatpata Chef Moong Dal Namkeen 150 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,150 g,46.0,37.59,8.41,short,24
+SKU-7XM5FL,Aarti Aangan Earthen Diya Set 12 pcs,Puja & Festive,Festive Seasonal,Aarti Aangan,12 pcs,120.0,82.14,37.86,long,4
+SKU-81B9GT,Machhar Mukt Mosquito Repellent Cream 50 g,Home Care,Pest Control,Machhar Mukt,50 g,90.0,72.69,17.31,long,6
+SKU-81NV5A,Bubble Bunny Diaper Pants XL 28 pcs,Baby Care,Baby Care,Bubble Bunny,28 pcs,639.0,541.84,97.16,long,3
+SKU-846Y6J,Prakash Plus Extension Board 4 Socket 1 pc,General Merchandise,Electricals,Prakash Plus,1 pc,399.0,266.93,132.07,long,4
+SKU-85ROH8,Shuddh Ghar Thick Toilet Cleaner 1 L,Home Care,Surface & Toilet Cleaners,Shuddh Ghar,1 L,185.0,148.97,36.03,long,4
+SKU-892FGV,ChamakMax Fabric Conditioner 860 ml,Home Care,Laundry,ChamakMax,860 ml,219.0,185.98,33.02,long,6
+SKU-8BAZ6M,VoltPeak AAA Alkaline Batteries 4 pcs,General Merchandise,Batteries,VoltPeak,4 pcs,180.0,126.36,53.64,long,6
+SKU-8BOJT2,Neem Nirmal Pure Coconut Hair Oil 300 ml,Personal Care,Hair Care,Neem Nirmal,300 ml,140.0,108.34,31.66,long,4
+SKU-8E1120,ChamakMax Detergent Powder 1 kg,Home Care,Laundry,ChamakMax,1 kg,120.0,102.71,17.29,long,12
+SKU-8JNJV9,Fizzora Cola 750 ml,Beverages,Soft Drinks,Fizzora,750 ml,40.0,33.74,6.26,short,24
+SKU-8LRHRP,Zaika Zone Coriander Powder 100 g,Spices & Masalas,Ground Spices,Zaika Zone,100 g,30.0,23.88,6.12,long,6
+SKU-8P7N2N,Noodlo Atta Instant Noodles 4 x 72 g,Packaged Foods,Noodles & Pasta,Noodlo,4 x 72 g,60.0,51.28,8.72,short,24
+SKU-8PN6XR,Dhaanya Sutra Ponni Boiled Rice 1 kg,Staples,Rice,Dhaanya Sutra,1 kg,60.0,54.78,5.22,long,6
+SKU-8PXV4A,Rasoi Rang Jeera (Cumin Seeds) 100 g,Spices & Masalas,Whole Spices,Rasoi Rang,100 g,65.0,52.58,12.42,long,6
+SKU-8S7E1Y,Gramin Sona Refined Sugar 1 kg,Staples,"Sugar, Salt & Jaggery",Gramin Sona,1 kg,50.0,46.28,3.72,long,10
+SKU-8SN34N,Saffron Select Seedless Raisins 500 g,Dry Fruits & Nuts,Dry Fruits,Saffron Select,500 g,190.0,152.55,37.45,long,6
+SKU-8TQ6Y6,Pavitra Path Kumkum 20 g,Puja & Festive,Puja Essentials,Pavitra Path,20 g,25.0,17.27,7.73,long,6
+SKU-8V4T1W,Dabba Diaries Tomato Ketchup 950 g,Packaged Foods,"Sauces, Spreads & Pickles",Dabba Diaries,950 g,165.0,135.8,29.2,long,6
+SKU-8X7NOG,Saffron Select Whole Wheat Atta 10 kg,Staples,Atta & Flours,Saffron Select,10 kg,469.0,428.29,40.71,long,6
+SKU-929IN1,Crunchwala Aloo Bhujia 200 g,Packaged Foods,Namkeen & Chips,Crunchwala,200 g,55.0,46.14,8.86,short,24
+SKU-93XJNF,Kheti Kanak Pure Coconut Oil 1 L,Staples,Edible Oils,Kheti Kanak,1 L,449.0,420.66,28.34,long,6
+SKU-97NG84,Malai Meadows Desi Danedar Ghee 500 ml,Staples,Ghee,Malai Meadows,500 ml,359.0,333.36,25.64,long,6
+SKU-9ASIZR,Gwala Fresh Sweet Lassi 200 ml,Dairy & Frozen,Dairy & Chilled,Gwala Fresh,200 ml,25.0,22.43,2.57,chilled,6
+SKU-9C42OO,Zaika Zone Jeera (Cumin Seeds) 100 g,Spices & Masalas,Whole Spices,Zaika Zone,100 g,60.0,49.43,10.57,long,6
+SKU-9GT40P,Saffron Select Hazelnut Cocoa Spread 350 g,Packaged Foods,"Sauces, Spreads & Pickles",Saffron Select,350 g,279.0,226.89,52.11,long,4
+SKU-9JS2ZA,ChargeKart 20 W Fast Charger 1 pc,General Merchandise,Mobile Accessories,ChargeKart,1 pc,739.0,462.25,276.75,long,3
+SKU-9M64FU,Gramin Sona Chana Dal 1 kg,Staples,Pulses & Dals,Gramin Sona,1 kg,100.0,91.46,8.54,long,6
+SKU-9QF9EG,Gramin Sona Whole Moong 500 g,Staples,Pulses & Dals,Gramin Sona,500 g,70.0,63.64,6.36,long,6
+SKU-9RCMAT,Saffron Select Urad Papad 200 g,Packaged Foods,"Sauces, Spreads & Pickles",Saffron Select,200 g,60.0,50.11,9.89,long,4
+SKU-9S225S,Brewbay Classic Instant Coffee Jar 50 g,Beverages,Coffee,Brewbay,50 g,190.0,156.15,33.85,long,4
+SKU-9X30DF,Phalwala Litchi Juice 1 L,Beverages,Juices & Water,Phalwala,1 L,125.0,108.83,16.17,short,6
+SKU-9YKG4M,Kheti Kanak Sona Masoori Rice 10 kg,Staples,Rice,Kheti Kanak,10 kg,639.0,589.23,49.77,long,3
+SKU-A0GVQV,Badam Bagh Premium Dates (Khajur) 500 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,500 g,190.0,158.91,31.09,long,4
+SKU-A1NIE2,Tresslyn Amla Hair Oil 200 ml,Personal Care,Hair Care,Tresslyn,200 ml,110.0,79.01,30.99,long,6
+SKU-A1YG0P,Aarti Aangan Decorative Torans 1 pc,Puja & Festive,Festive Seasonal,Aarti Aangan,1 pc,200.0,120.82,79.18,long,4
+SKU-A3S1BC,Prakash Plus LED Bulb 9 W 1 pc,General Merchandise,Electricals,Prakash Plus,1 pc,100.0,66.98,33.02,long,6
+SKU-A40VOS,Rasoi Rang Coriander Powder 200 g,Spices & Masalas,Ground Spices,Rasoi Rang,200 g,55.0,43.83,11.17,long,6
+SKU-A4T02K,Rasoi Rang Sambar Powder 200 g,Spices & Masalas,Ground Spices,Rasoi Rang,200 g,100.0,79.79,20.21,long,6
+SKU-A8AYFJ,ChamakMax Liquid Detergent 1 L,Home Care,Laundry,ChamakMax,1 L,209.0,175.94,33.06,long,12
+SKU-A8J7CU,SmoothEdge Perfume Body Spray 120 ml,Personal Care,Men's Grooming,SmoothEdge,120 ml,259.0,182.68,76.32,long,6
+SKU-AAJXL5,Sunehri Ghani Pure Coconut Oil 1 L,Staples,Edible Oils,Sunehri Ghani,1 L,419.0,393.48,25.52,long,12
+SKU-ABT1NT,Madhu Vatika Antiseptic Liquid 250 ml,Health & Wellness,Health & Wellness,Madhu Vatika,250 ml,155.0,116.03,38.97,long,4
+SKU-ADWMWC,Glowmitra Matte Lipstick Nude Rose 3.5 g,Personal Care,Cosmetics,Glowmitra,3.5 g,339.0,210.57,128.43,long,4
+SKU-AE0HBD,Glowmitra Brightening Face Wash 100 g,Personal Care,Skin Care,Glowmitra,100 g,175.0,120.74,54.26,long,4
+SKU-AERFY9,Dabba Diaries Penne Pasta 500 g,Packaged Foods,Noodles & Pasta,Dabba Diaries,500 g,105.0,92.69,12.31,short,4
+SKU-AFE6NB,Cocoa Kahani Chocolate Wafer Bar 37 g,Chocolates & Sweets,Chocolates & Confectionery,Cocoa Kahani,37 g,30.0,24.25,5.75,short,6
+SKU-AFWZ0X,Sunehri Ghani Kachi Ghani Mustard Oil 1 L,Staples,Edible Oils,Sunehri Ghani,1 L,185.0,172.08,12.92,long,12
+SKU-AK3W8F,Madhu Vatika Pain Relief Balm 8 ml,Health & Wellness,Health & Wellness,Madhu Vatika,8 ml,47.0,37.27,9.73,long,6
+SKU-AL3OOM,Saffron Select Refined Sugar 5 kg,Staples,"Sugar, Salt & Jaggery",Saffron Select,5 kg,199.0,183.75,15.25,long,10
+SKU-AQXL4U,Roshni Home LED Bulb 9 W 1 pc,General Merchandise,Electricals,Roshni Home,1 pc,110.0,76.34,33.66,long,4
+SKU-ASWPS8,Thanda Tonic Cola 750 ml,Beverages,Soft Drinks,Thanda Tonic,750 ml,39.0,33.18,5.82,short,24
+SKU-AU00YZ,Zaika Zone Cloves (Laung) 50 g,Spices & Masalas,Whole Spices,Zaika Zone,50 g,85.0,69.42,15.58,long,6
+SKU-AUU01J,Saffron Select Elaichi Tea 250 g,Beverages,Tea,Saffron Select,250 g,140.0,116.22,23.78,long,24
+SKU-AV556V,Glowmitra Liquid Lipstick Coral 4 ml,Personal Care,Cosmetics,Glowmitra,4 ml,399.0,253.35,145.65,long,4
+SKU-AXWV75,Tresslyn Daily Conditioner 180 ml,Personal Care,Hair Care,Tresslyn,180 ml,209.0,158.67,50.33,long,24
+SKU-AY1KO2,Saffron Select Whole Cashews W320 200 g,Dry Fruits & Nuts,Dry Fruits,Saffron Select,200 g,209.0,176.03,32.97,long,6
+SKU-B1HQDQ,Dabba Diaries Fruit & Nut Muesli 500 g,Packaged Foods,Breakfast Cereals,Dabba Diaries,500 g,419.0,360.06,58.94,short,6
+SKU-B1Y99M,Komal Kaya Amla Hair Oil 200 ml,Personal Care,Hair Care,Komal Kaya,200 ml,105.0,81.68,23.32,long,4
+SKU-B3GRBU,Saffron Select Mixed Fruit Jam 500 g,Packaged Foods,"Sauces, Spreads & Pickles",Saffron Select,500 g,150.0,123.93,26.07,long,6
+SKU-B3IX1P,Komal Kaya Daily Conditioner 180 ml,Personal Care,Hair Care,Komal Kaya,180 ml,190.0,149.62,40.38,long,6
+SKU-B71KSZ,Chatpata Chef Green Chilli Sauce 200 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,200 g,55.0,46.71,8.29,long,6
+SKU-B8SUGT,Chocobahar Dark Chocolate 70% 90 g,Chocolates & Sweets,Chocolates & Confectionery,Chocobahar,90 g,185.0,142.93,42.07,short,4
+SKU-B8XSA6,Likhna Gel Pens Assorted 5 pcs,General Merchandise,Stationery,Likhna,5 pcs,60.0,41.69,18.31,long,4
+SKU-BA6ZK5,Shuddh Ghar Garbage Bags Medium 30 pcs,Home Care,Household Essentials,Shuddh Ghar,30 pcs,100.0,73.79,26.21,long,4
+SKU-BC9MLJ,Balshakti Chocolate Health Drink 500 g,Beverages,Health Drinks,Balshakti,500 g,259.0,221.92,37.08,long,6
+SKU-BF2R8D,Cocoa Kahani Milk Chocolate Bar 50 g,Chocolates & Sweets,Chocolates & Confectionery,Cocoa Kahani,50 g,50.0,40.08,9.92,short,6
+SKU-BH0P98,Dhaanya Sutra Basmati Rice Rozana 5 kg,Staples,Rice,Dhaanya Sutra,5 kg,519.0,467.9,51.1,long,3
+SKU-BJCG28,Shuddh Ghar Naphthalene Balls 100 g,Home Care,Household Essentials,Shuddh Ghar,100 g,45.0,32.17,12.83,long,6
+SKU-BLVFYH,Biskit Basket Digestive Biscuits 250 g,Packaged Foods,Biscuits & Cookies,Biskit Basket,250 g,80.0,67.39,12.61,short,24
+SKU-BQJ965,Shuddh Ghar Glass Cleaner Spray 500 ml,Home Care,Surface & Toilet Cleaners,Shuddh Ghar,500 ml,110.0,92.02,17.98,long,6
+SKU-BQRGHH,Dabba Diaries Urad Papad 200 g,Packaged Foods,"Sauces, Spreads & Pickles",Dabba Diaries,200 g,75.0,63.39,11.61,long,6
+SKU-BSZNNW,Ayurmaa Pure Honey 500 g,Health & Wellness,Health & Wellness,Ayurmaa,500 g,239.0,188.24,50.76,long,6
+SKU-BVRMD9,Kheti Kanak Bombay Rava (Sooji) 1 kg,Staples,Atta & Flours,Kheti Kanak,1 kg,70.0,63.26,6.74,long,6
+SKU-BVW2S7,Dhaanya Sutra Sona Masoori Rice 5 kg,Staples,Rice,Dhaanya Sutra,5 kg,319.0,292.72,26.28,long,6
+SKU-BY9HMY,Chatpata Chef Potato Chips Cream & Onion 115 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,115 g,47.0,39.38,7.62,short,6
+SKU-BYJ737,Halwai House Kaju Katli Box 250 g,Chocolates & Sweets,Sweets & Mithai,Halwai House,250 g,379.0,307.3,71.7,short,4
+SKU-BYR90T,Pahadi Patti Strong Dust Tea 500 g,Beverages,Tea,Pahadi Patti,500 g,259.0,220.48,38.52,long,24
+SKU-BZD9OA,Sunrise Bowl Corn Flakes 475 g,Packaged Foods,Breakfast Cereals,Sunrise Bowl,475 g,190.0,161.09,28.91,short,6
+SKU-C1T5AZ,Komal Kaya Prickly Heat Powder 150 g,Personal Care,Skin Care,Komal Kaya,150 g,125.0,88.39,36.61,long,6
+SKU-C1Y0YT,Shuddh Ghar Cling Film 30 m,Home Care,Household Essentials,Shuddh Ghar,30 m,140.0,109.72,30.28,long,4
+SKU-C2YQTU,Sunehri Ghani Refined Sugar 1 kg,Staples,"Sugar, Salt & Jaggery",Sunehri Ghani,1 kg,48.0,44.57,3.43,long,10
+SKU-C4NW89,Kashmeer Crest Seedless Raisins 500 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,500 g,229.0,185.11,43.89,long,4
+SKU-C6HXUS,Shuddh Ghar Kitchen Towel Rolls 2 rolls,Home Care,Household Essentials,Shuddh Ghar,2 rolls,140.0,105.18,34.82,long,6
+SKU-C9RUS7,Kheti Kanak Maida 500 g,Staples,Atta & Flours,Kheti Kanak,500 g,30.0,27.0,3.0,long,6
+SKU-CA12TL,Crunchwala South Style Mixture 200 g,Packaged Foods,Namkeen & Chips,Crunchwala,200 g,50.0,42.7,7.3,short,24
+SKU-CCC6B0,Mithas Mahal Modak Box 250 g,Chocolates & Sweets,Sweets & Mithai,Mithas Mahal,250 g,160.0,122.59,37.41,short,4
+SKU-CCEDOV,Malai Meadows Pure Cow Ghee 1 L,Staples,Ghee,Malai Meadows,1 L,669.0,613.5,55.5,long,3
+SKU-CCIH2E,Saffron Select Kolam Rice 5 kg,Staples,Rice,Saffron Select,5 kg,279.0,256.58,22.42,long,6
+SKU-CCN1RE,Gwala Gold Pure Cow Ghee 1 L,Staples,Ghee,Gwala Gold,1 L,649.0,598.47,50.53,long,3
+SKU-CD38C6,Saffron Select Whole Moong 500 g,Staples,Pulses & Dals,Saffron Select,500 g,60.0,55.14,4.86,long,6
+SKU-CIGUTH,Chocobahar Milk Chocolate Bar 13 g,Chocolates & Sweets,Chocolates & Confectionery,Chocobahar,13 g,11.0,8.88,2.12,short,6
+SKU-CLZR54,ChamakMax Dishwash Liquid Lemon 750 ml,Home Care,Dishwash,ChamakMax,750 ml,160.0,135.37,24.63,long,6
+SKU-CMWMOP,Masala Mehfil Rasam Powder 100 g,Spices & Masalas,Ground Spices,Masala Mehfil,100 g,46.0,37.13,8.87,long,6
+SKU-CQ72GK,FreshFolk Lime Fresh Bathing Soap 125 g,Personal Care,Bath & Body,FreshFolk,125 g,45.0,36.75,8.25,long,4
+SKU-CQPWT5,Rasoi Rang Red Chilli Powder 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,45.0,37.05,7.95,long,6
+SKU-CRDJ31,Crunchwala Moong Dal Namkeen 150 g,Packaged Foods,Namkeen & Chips,Crunchwala,150 g,40.0,33.78,6.22,short,24
+SKU-CT6HJD,Likhna Wax Crayons 24 shades,General Merchandise,Stationery,Likhna,24 shades,90.0,66.75,23.25,long,4
+SKU-CTCCY2,Saffron Select Kuttu Atta 500 g,Staples,Atta & Flours,Saffron Select,500 g,80.0,71.83,8.17,long,4
+SKU-CUF7VN,Kheti Kanak Basmati Rice Classic 1 kg,Staples,Rice,Kheti Kanak,1 kg,165.0,148.24,16.76,long,6
+SKU-CVM240,Neem Nirmal Shower Gel 250 ml,Personal Care,Bath & Body,Neem Nirmal,250 ml,219.0,172.8,46.2,long,6
+SKU-CVP12H,Rasoi Rang Kashmiri Saffron (Kesar) 2 g,Spices & Masalas,Whole Spices,Rasoi Rang,2 g,589.0,487.81,101.19,long,3
+SKU-CY5A58,FreshFolk 3-Blade Razor Cartridges 4 pcs,Personal Care,Men's Grooming,FreshFolk,4 pcs,709.0,494.26,214.74,long,3
+SKU-CZ8MR4,Dhaanya Sutra Whole Moong 500 g,Staples,Pulses & Dals,Dhaanya Sutra,500 g,65.0,59.4,5.6,long,6
+SKU-D0GZ1C,Crunchwala Digestive Biscuits 250 g,Packaged Foods,Biscuits & Cookies,Crunchwala,250 g,75.0,63.79,11.21,short,6
+SKU-D1YTW1,Ayurmaa Pure Honey 1 kg,Health & Wellness,Health & Wellness,Ayurmaa,1 kg,449.0,342.08,106.92,long,4
+SKU-D49ZH2,Himkulfi Frozen Aloo Tikki 400 g,Dairy & Frozen,Ice Cream & Frozen,Himkulfi,400 g,140.0,111.89,28.11,frozen,6
+SKU-D5G1HE,Noodlo Cup Noodles Masala 70 g,Packaged Foods,Noodles & Pasta,Noodlo,70 g,50.0,43.09,6.91,short,6
+SKU-D8ZP2B,Crunchwala Potato Chips Cream & Onion 50 g,Packaged Foods,Namkeen & Chips,Crunchwala,50 g,20.0,16.7,3.3,short,24
+SKU-DDMGB5,Gramin Sona Toor Dal 1 kg,Staples,Pulses & Dals,Gramin Sona,1 kg,165.0,150.54,14.46,long,6
+SKU-DH5X9C,Saffron Select Liquid Detergent 1 L,Home Care,Laundry,Saffron Select,1 L,200.0,165.8,34.2,long,6
+SKU-DHF8R8,Saffron Select Garbage Bags Medium 30 pcs,Home Care,Household Essentials,Saffron Select,30 pcs,85.0,66.74,18.26,long,6
+SKU-DI1AL4,Rasoi Rang Chaat Masala 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,70.0,56.75,13.25,long,6
+SKU-DJPETG,WrapWell Toilet Tissue Rolls 4 rolls,Home Care,Household Essentials,WrapWell,4 rolls,145.0,107.29,37.71,long,6
+SKU-DKDVRU,Kheti Kanak Ragi Flour 1 kg,Staples,Atta & Flours,Kheti Kanak,1 kg,105.0,96.94,8.06,long,4
+SKU-DKL8U4,Biskit Basket Milk Rusk 300 g,Packaged Foods,Biscuits & Cookies,Biskit Basket,300 g,60.0,51.69,8.31,short,24
+SKU-DM8ZK5,Neem Nirmal Handwash Refill Pouch 750 ml,Personal Care,Bath & Body,Neem Nirmal,750 ml,105.0,87.03,17.97,long,24
+SKU-DN0ADZ,Neem Nirmal Lime Fresh Bathing Soap 4 x 125 g,Personal Care,Bath & Body,Neem Nirmal,4 x 125 g,160.0,126.04,33.96,long,24
+SKU-DNQCYH,Fizzora Cola Can 300 ml,Beverages,Soft Drinks,Fizzora,300 ml,40.0,34.71,5.29,short,24
+SKU-DNX3CY,Gramin Sona Whole Wheat Atta 5 kg,Staples,Atta & Flours,Gramin Sona,5 kg,299.0,268.56,30.44,long,6
+SKU-DON4ZY,ChamakMax Dishwash Bar 3 x 200 g,Home Care,Dishwash,ChamakMax,3 x 200 g,60.0,50.89,9.11,long,24
+SKU-DQXHNB,Badam Bagh Seedless Raisins 200 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,200 g,95.0,77.98,17.02,long,12
+SKU-DS8X59,Glowmitra Deep Moisture Body Lotion 400 ml,Personal Care,Skin Care,Glowmitra,400 ml,349.0,256.33,92.67,long,6
+SKU-DTW29X,Prakash Plus LED Batten 20 W 1 pc,General Merchandise,Electricals,Prakash Plus,1 pc,349.0,216.76,132.24,long,4
+SKU-DUGG0X,Danta Shakti Soft Toothbrush 4 pcs,Personal Care,Oral Care,Danta Shakti,4 pcs,140.0,108.4,31.6,long,6
+SKU-DXH8PM,Mithas Mahal Kaju Katli Box 250 g,Chocolates & Sweets,Sweets & Mithai,Mithas Mahal,250 g,329.0,259.56,69.44,short,4
+SKU-DY9Q4X,Zaika Zone Pav Bhaji Masala 100 g,Spices & Masalas,Ground Spices,Zaika Zone,100 g,85.0,67.62,17.38,long,6
+SKU-DYKFA8,Dabba Diaries Cup Noodles Masala 70 g,Packaged Foods,Noodles & Pasta,Dabba Diaries,70 g,50.0,44.27,5.73,short,24
+SKU-E1UVPB,SmoothEdge Shaving Foam 418 g,Personal Care,Men's Grooming,SmoothEdge,418 g,249.0,169.4,79.6,long,6
+SKU-E30CH8,Saffron Select Chana Dal 500 g,Staples,Pulses & Dals,Saffron Select,500 g,45.0,40.97,4.03,long,10
+SKU-E47D4Q,Roshni Home Extension Board 4 Socket 1 pc,General Merchandise,Electricals,Roshni Home,1 pc,369.0,224.03,144.97,long,4
+SKU-E64BD3,Urjaa Cell AA Heavy Duty Batteries 10 pcs,General Merchandise,Batteries,Urjaa Cell,10 pcs,105.0,71.7,33.3,long,4
+SKU-E71QIS,Dabba Diaries Thick Poha 1 kg,Staples,Poha & Breakfast Staples,Dabba Diaries,1 kg,95.0,82.78,12.22,long,4
+SKU-E8QOTS,Noodlo Masala Instant Noodles 70 g,Packaged Foods,Noodles & Pasta,Noodlo,70 g,15.0,13.33,1.67,short,24
+SKU-EC5MO6,Chatpata Chef South Style Mixture 200 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,200 g,45.0,36.85,8.15,short,24
+SKU-EC8RPV,Cocoa Kahani Fruit & Nut Chocolate 75 g,Chocolates & Sweets,Chocolates & Confectionery,Cocoa Kahani,75 g,95.0,74.82,20.18,short,24
+SKU-ECXO7V,Malai Meadows Cheese Cubes 200 g,Dairy & Frozen,Dairy & Chilled,Malai Meadows,200 g,150.0,137.06,12.94,chilled,4
+SKU-ED4GKS,Halwai House Soan Papdi 500 g,Chocolates & Sweets,Sweets & Mithai,Halwai House,500 g,190.0,142.39,47.61,short,4
+SKU-EGT08P,Sunehri Ghani Gingelly (Sesame) Oil 1 L,Staples,Edible Oils,Sunehri Ghani,1 L,319.0,298.79,20.21,long,4
+SKU-EHX0TP,WrapWell Non-stick Tawa 1 pc,General Merchandise,Kitchenware,WrapWell,1 pc,549.0,375.27,173.73,long,3
+SKU-ELQC4L,Kheti Kanak Idli Rice 1 kg,Staples,Rice,Kheti Kanak,1 kg,65.0,58.32,6.68,long,6
+SKU-EPBYUO,Badam Bagh Whole Cashews W320 200 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,200 g,239.0,201.73,37.27,long,6
+SKU-EROT9C,Saffron Select Multigrain Atta 1 kg,Staples,Atta & Flours,Saffron Select,1 kg,75.0,67.39,7.61,long,6
+SKU-ESI2F4,Halwai House Modak Box 250 g,Chocolates & Sweets,Sweets & Mithai,Halwai House,250 g,180.0,144.54,35.46,short,4
+SKU-ESWUJT,Chatpata Chef Tomato Ketchup 500 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,500 g,100.0,81.51,18.49,long,12
+SKU-ETIOTP,ChargeKart USB-C Charging Cable 1 m 1 pc,General Merchandise,Mobile Accessories,ChargeKart,1 pc,309.0,188.42,120.58,long,4
+SKU-ETRQSH,Kaapi Kudil Filter Coffee Powder 80:20 500 g,Beverages,Coffee,Kaapi Kudil,500 g,299.0,248.12,50.88,long,6
+SKU-EXUOME,Badam Bagh Roasted Makhana 100 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,100 g,145.0,117.33,27.67,long,6
+SKU-EYF8HD,Ayurmaa Isabgol Husk 100 g,Health & Wellness,Health & Wellness,Ayurmaa,100 g,150.0,119.02,30.98,long,6
+SKU-EYY0DH,Chatpata Chef Hazelnut Cocoa Spread 350 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,350 g,329.0,266.99,62.01,long,6
+SKU-F370X0,Crunchwala Salted Crackers 200 g,Packaged Foods,Biscuits & Cookies,Crunchwala,200 g,38.0,31.94,6.06,short,24
+SKU-F5HFJA,Kohl & Co Nail Enamel Pastel Pink 9 ml,Personal Care,Cosmetics,Kohl & Co,9 ml,100.0,66.06,33.94,long,6
+SKU-F5IJ4P,Saffron Select Filtered Groundnut Oil 1 L,Staples,Edible Oils,Saffron Select,1 L,180.0,169.12,10.88,long,12
+SKU-F6U5ZE,Kheti Kanak Pure Coconut Oil 500 ml,Staples,Edible Oils,Kheti Kanak,500 ml,249.0,230.05,18.95,long,12
+SKU-F81PDZ,Komal Kaya Neem Face Wash 100 ml,Personal Care,Skin Care,Komal Kaya,100 ml,155.0,112.9,42.1,long,6
+SKU-F8H0U3,FreshFolk Lather Shaving Cream 70 g,Personal Care,Men's Grooming,FreshFolk,70 g,70.0,50.52,19.48,long,4
+SKU-F92WDE,Rasoi Rang Pav Bhaji Masala 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,75.0,62.05,12.95,long,6
+SKU-F9O9JM,ChaiCraft Green Tea Bags 25 bags,Beverages,Tea,ChaiCraft,25 bags,175.0,147.91,27.09,long,4
+SKU-FC8RDF,Thanda Tonic Mixed Fruit Juice 1 L,Beverages,Juices & Water,Thanda Tonic,1 L,135.0,113.34,21.66,short,6
+SKU-FDMQTH,Dhaanya Sutra Kerala Matta Rice 1 kg,Staples,Rice,Dhaanya Sutra,1 kg,70.0,64.23,5.77,long,6
+SKU-FGAFVC,Dhaanya Sutra Chana Dal 1 kg,Staples,Pulses & Dals,Dhaanya Sutra,1 kg,110.0,100.26,9.74,long,4
+SKU-FGZUII,Saffron Select Basmati Rice Classic 5 kg,Staples,Rice,Saffron Select,5 kg,669.0,613.52,55.48,long,3
+SKU-FH7L4G,Gramin Sona Bombay Rava (Sooji) 1 kg,Staples,Atta & Flours,Gramin Sona,1 kg,70.0,64.14,5.86,long,6
+SKU-FKN4WH,Shuddh Ghar Mosquito Repellent Cream 50 g,Home Care,Pest Control,Shuddh Ghar,50 g,100.0,80.62,19.38,long,6
+SKU-FNC75G,Shuddh Ghar Vaporiser Machine + Refill 1 set,Home Care,Pest Control,Shuddh Ghar,1 set,100.0,77.17,22.83,long,4
+SKU-FO071G,Chatpata Chef Aloo Bhujia 200 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,200 g,55.0,46.23,8.77,short,6
+SKU-FONQ8N,Saffron Select Dishwash Liquid Lemon 500 ml,Home Care,Dishwash,Saffron Select,500 ml,100.0,85.24,14.76,long,6
+SKU-FOR9OA,Sunehri Ghani Iodised Salt 1 kg,Staples,"Sugar, Salt & Jaggery",Sunehri Ghani,1 kg,28.0,26.12,1.88,long,10
+SKU-FR8CNR,Nanhe Kadam Diaper Pants Medium 76 pcs,Baby Care,Baby Care,Nanhe Kadam,76 pcs,1199.0,1005.23,193.77,long,3
+SKU-FYO95M,Gramin Sona Kabuli Chana 1 kg,Staples,Pulses & Dals,Gramin Sona,1 kg,165.0,152.88,12.12,long,4
+SKU-G2F3D5,Noodlo Penne Pasta 500 g,Packaged Foods,Noodles & Pasta,Noodlo,500 g,95.0,81.13,13.87,short,6
+SKU-G36RYP,Saffron Select Whole Wheat Atta 1 kg,Staples,Atta & Flours,Saffron Select,1 kg,55.0,49.87,5.13,long,6
+SKU-G56MRT,Likhna A4 Copier Paper 500 sheets,General Merchandise,Stationery,Likhna,500 sheets,319.0,212.87,106.13,long,4
+SKU-G7BGF0,Danta Shakti Cavity Protection Toothpaste 200 g,Personal Care,Oral Care,Danta Shakti,200 g,115.0,85.96,29.04,long,6
+SKU-G7E3I6,Ujjwal Wash Liquid Detergent 2 L,Home Care,Laundry,Ujjwal Wash,2 L,419.0,360.38,58.62,long,6
+SKU-G9637K,Saffron Select Garbage Bags Large 15 pcs,Home Care,Household Essentials,Saffron Select,15 pcs,85.0,65.21,19.79,long,6
+SKU-GCV7MD,Brewbay Chocolate Health Drink 500 g,Beverages,Health Drinks,Brewbay,500 g,279.0,243.49,35.51,long,6
+SKU-GD0MZV,Neem Nirmal Petroleum Jelly 100 ml,Personal Care,Skin Care,Neem Nirmal,100 ml,120.0,82.3,37.7,long,4
+SKU-GEAYXI,Kashmeer Crest Roasted Makhana 250 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,250 g,359.0,288.45,70.55,long,6
+SKU-GGE0V5,Saffron Select Mango Pickle 400 g,Packaged Foods,"Sauces, Spreads & Pickles",Saffron Select,400 g,120.0,96.62,23.38,long,6
+SKU-GGM9HD,FreshFolk Handwash Pump 200 ml,Personal Care,Bath & Body,FreshFolk,200 ml,85.0,66.97,18.03,long,6
+SKU-GIF2RP,Kheti Kanak Ponni Boiled Rice 5 kg,Staples,Rice,Kheti Kanak,5 kg,329.0,300.23,28.77,long,6
+SKU-GIUON2,Gramin Sona Chana Dal 500 g,Staples,Pulses & Dals,Gramin Sona,500 g,50.0,46.41,3.59,long,10
+SKU-GKQAH5,Rasoi Rang Turmeric Powder 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,34.0,28.51,5.49,long,6
+SKU-GQHX0W,Kohl & Co Matte Lipstick Nude Rose 3.5 g,Personal Care,Cosmetics,Kohl & Co,3.5 g,299.0,204.86,94.14,long,4
+SKU-GT9SUD,Nanhe Kadam Baby Massage Oil 200 ml,Baby Care,Baby Care,Nanhe Kadam,200 ml,209.0,174.28,34.72,long,6
+SKU-GURQS9,Dabba Diaries Eggless Mayonnaise 250 g,Packaged Foods,"Sauces, Spreads & Pickles",Dabba Diaries,250 g,110.0,90.45,19.55,long,6
+SKU-GWUBWO,Phalwala Energy Drink Can 250 ml,Beverages,Juices & Water,Phalwala,250 ml,125.0,104.08,20.92,short,6
+SKU-H4EZR6,Sunehri Ghani Jaggery Block 1 kg,Staples,"Sugar, Salt & Jaggery",Sunehri Ghani,1 kg,85.0,78.6,6.4,long,10
+SKU-H7DI56,Thanda Tonic Lemon Lime Soda 750 ml,Beverages,Soft Drinks,Thanda Tonic,750 ml,43.0,36.11,6.89,short,24
+SKU-H9Z7AX,Biskit Basket Salted Crackers 200 g,Packaged Foods,Biscuits & Cookies,Biskit Basket,200 g,35.0,30.57,4.43,short,24
+SKU-HEKZ73,Saffron Select Seedless Raisins 200 g,Dry Fruits & Nuts,Dry Fruits,Saffron Select,200 g,80.0,64.96,15.04,long,6
+SKU-HELA9K,Crunchwala Glucose Biscuits 800 g,Packaged Foods,Biscuits & Cookies,Crunchwala,800 g,100.0,84.67,15.33,short,6
+SKU-HF77OR,Pavitra Path Cotton Wicks 100 pcs,Puja & Festive,Puja Essentials,Pavitra Path,100 pcs,25.0,16.47,8.53,long,4
+SKU-HI206H,WrapWell Airtight Container Set 3 pcs,General Merchandise,Kitchenware,WrapWell,3 pcs,299.0,184.63,114.37,long,4
+SKU-HJWJWV,Rasoi Rang Instant Dosa Mix 500 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Rasoi Rang,500 g,110.0,92.16,17.84,short,6
+SKU-HL2SS6,Chatpata Chef Navratan Mixture 200 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,200 g,48.0,40.68,7.32,short,6
+SKU-HO4G5M,Crunchwala Marie Biscuits 250 g,Packaged Foods,Biscuits & Cookies,Crunchwala,250 g,38.0,32.59,5.41,short,6
+SKU-HO9F7O,Dabba Diaries Mango Pickle 400 g,Packaged Foods,"Sauces, Spreads & Pickles",Dabba Diaries,400 g,130.0,106.64,23.36,long,6
+SKU-HOO5DM,Ayurmaa Antiseptic Liquid 250 ml,Health & Wellness,Health & Wellness,Ayurmaa,250 ml,145.0,108.98,36.02,long,12
+SKU-HPF4WJ,Sunehri Ghani Refined Sunflower Oil 5 L,Staples,Edible Oils,Sunehri Ghani,5 L,739.0,686.22,52.78,long,3
+SKU-HQOEIS,Dabba Diaries Atta Instant Noodles 4 x 72 g,Packaged Foods,Noodles & Pasta,Dabba Diaries,4 x 72 g,60.0,53.35,6.65,short,6
+SKU-HRF4MZ,Madhu Vatika Glucose Powder Orange 500 g,Health & Wellness,Health & Wellness,Madhu Vatika,500 g,155.0,124.8,30.2,long,4
+SKU-HUATW0,Dhaanya Sutra Sona Masoori Rice 1 kg,Staples,Rice,Dhaanya Sutra,1 kg,70.0,63.63,6.37,long,6
+SKU-HWF6ME,Neem Nirmal Anti-Dandruff Shampoo 340 ml,Personal Care,Hair Care,Neem Nirmal,340 ml,309.0,220.29,88.71,long,4
+SKU-HXO6CK,Saffron Select Basmati Rice Rozana 1 kg,Staples,Rice,Saffron Select,1 kg,95.0,87.15,7.85,long,6
+SKU-HZ1L9P,Dabba Diaries Dark Soy Sauce 200 g,Packaged Foods,"Sauces, Spreads & Pickles",Dabba Diaries,200 g,65.0,52.78,12.22,long,4
+SKU-HZEHOO,Glowmitra BB Cream 30 g,Personal Care,Cosmetics,Glowmitra,30 g,229.0,152.01,76.99,long,4
+SKU-HZU1FG,Brewbay Classic Instant Coffee Jar 100 g,Beverages,Coffee,Brewbay,100 g,359.0,305.0,54.0,long,4
+SKU-I05D1H,Kaapi Kudil Rich Instant Coffee Pouch 50 g,Beverages,Coffee,Kaapi Kudil,50 g,165.0,142.12,22.88,long,4
+SKU-I0JT23,Saffron Select Premium Leaf Tea 250 g,Beverages,Tea,Saffron Select,250 g,130.0,107.99,22.01,long,24
+SKU-I3YYZZ,Kheti Kanak Besan 1 kg,Staples,Atta & Flours,Kheti Kanak,1 kg,110.0,100.14,9.86,long,6
+SKU-I9023K,Zaika Zone Turmeric Powder 100 g,Spices & Masalas,Ground Spices,Zaika Zone,100 g,35.0,29.59,5.41,long,6
+SKU-IALNA5,Aarti Aangan Sandal Agarbatti 100 g,Puja & Festive,Puja Essentials,Aarti Aangan,100 g,80.0,56.81,23.19,long,6
+SKU-IBFK2B,Biskit Basket Glucose Biscuits 200 g,Packaged Foods,Biscuits & Cookies,Biskit Basket,200 g,25.0,21.26,3.74,short,24
+SKU-ICAPH7,Bartan Bazaar Airtight Container Set 3 pcs,General Merchandise,Kitchenware,Bartan Bazaar,3 pcs,289.0,179.35,109.65,long,4
+SKU-IDYLBQ,Likhna Geometry Box 1 set,General Merchandise,Stationery,Likhna,1 set,120.0,82.75,37.25,long,4
+SKU-IGS0TT,Masala Mehfil Sambar Powder 200 g,Spices & Masalas,Ground Spices,Masala Mehfil,200 g,95.0,76.94,18.06,long,4
+SKU-IIJGFY,Malai Meadows Pure Cow Ghee 500 ml,Staples,Ghee,Malai Meadows,500 ml,369.0,337.27,31.73,long,6
+SKU-ILSPV7,Dabba Diaries Glucose Biscuits 800 g,Packaged Foods,Biscuits & Cookies,Dabba Diaries,800 g,105.0,92.46,12.54,short,6
+SKU-INEW8V,WrapWell Steel Water Bottle 1 L,General Merchandise,Kitchenware,WrapWell,1 L,399.0,241.28,157.72,long,4
+SKU-IOKHMM,Masala Mehfil Meat Masala 100 g,Spices & Masalas,Ground Spices,Masala Mehfil,100 g,85.0,70.64,14.36,long,4
+SKU-IRA4UF,SmoothEdge Double Edge Blades 10 pcs,Personal Care,Men's Grooming,SmoothEdge,10 pcs,45.0,30.58,14.42,long,12
+SKU-IS0DV4,ChamakMax Bathroom Cleaner 500 ml,Home Care,Surface & Toilet Cleaners,ChamakMax,500 ml,125.0,99.79,25.21,long,6
+SKU-IS7W47,Chatpata Chef Mixed Fruit Jam 500 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,500 g,175.0,141.05,33.95,long,12
+SKU-ISU8IE,Dabba Diaries Digestive Biscuits 250 g,Packaged Foods,Biscuits & Cookies,Dabba Diaries,250 g,75.0,63.06,11.94,short,6
+SKU-IWZNTI,Sunehri Ghani Kachi Ghani Mustard Oil 5 L,Staples,Edible Oils,Sunehri Ghani,5 L,889.0,830.92,58.08,long,3
+SKU-IXOKOW,Fizzora Masala Jeera Soda 250 ml,Beverages,Soft Drinks,Fizzora,250 ml,20.0,16.96,3.04,short,24
+SKU-IZDBWA,Thanda Tonic Packaged Drinking Water 1 L,Beverages,Juices & Water,Thanda Tonic,1 L,18.0,15.22,2.78,short,12
+SKU-J04FV8,Madhu Vatika Chyawanprash 500 g,Health & Wellness,Health & Wellness,Madhu Vatika,500 g,209.0,166.75,42.25,long,4
+SKU-J062IF,WrapWell Aluminium Foil 9 m,Home Care,Household Essentials,WrapWell,9 m,90.0,70.41,19.59,long,6
+SKU-J0VT8N,WrapWell Cling Film 30 m,Home Care,Household Essentials,WrapWell,30 m,125.0,89.41,35.59,long,4
+SKU-J2IT82,Komal Kaya Petroleum Jelly 100 ml,Personal Care,Skin Care,Komal Kaya,100 ml,120.0,83.38,36.62,long,6
+SKU-J3VLQV,Malai Meadows Frozen Aloo Tikki 400 g,Dairy & Frozen,Ice Cream & Frozen,Malai Meadows,400 g,155.0,126.77,28.23,frozen,4
+SKU-J6D61F,Gramin Sona Multigrain Atta 1 kg,Staples,Atta & Flours,Gramin Sona,1 kg,95.0,86.76,8.24,long,6
+SKU-J70M47,Zaika Zone Garam Masala 100 g,Spices & Masalas,Ground Spices,Zaika Zone,100 g,75.0,62.77,12.23,long,6
+SKU-J8RBIV,Gramin Sona Refined Sugar 5 kg,Staples,"Sugar, Salt & Jaggery",Gramin Sona,5 kg,209.0,193.23,15.77,long,10
+SKU-J97EOD,Malai Meadows Set Curd Cup 400 g,Dairy & Frozen,Dairy & Chilled,Malai Meadows,400 g,55.0,48.74,6.26,chilled,12
+SKU-JC6C6V,Pustak Pro Wax Crayons 24 shades,General Merchandise,Stationery,Pustak Pro,24 shades,80.0,53.94,26.06,long,6
+SKU-JETUJV,Dabba Diaries Rolled Oats 1 kg,Staples,Poha & Breakfast Staples,Dabba Diaries,1 kg,175.0,156.46,18.54,long,12
+SKU-JFHJ9D,Komal Kaya Panty Liners 20 pcs,Personal Care,Feminine Hygiene,Komal Kaya,20 pcs,105.0,82.49,22.51,long,4
+SKU-JFJQ93,Sunehri Ghani Pure Coconut Oil 500 ml,Staples,Edible Oils,Sunehri Ghani,500 ml,219.0,203.63,15.37,long,12
+SKU-JFQWFD,FreshFolk 3-Blade Razor 1 pc,Personal Care,Men's Grooming,FreshFolk,1 pc,329.0,215.59,113.41,long,6
+SKU-JIHUI6,Shuddh Ghar Safety Matchboxes 10 boxes,Home Care,Household Essentials,Shuddh Ghar,10 boxes,20.0,15.32,4.68,long,12
+SKU-JJ4DFQ,Saffron Select Detergent Bar 4 x 250 g,Home Care,Laundry,Saffron Select,4 x 250 g,100.0,84.43,15.57,long,12
+SKU-JKIJRI,Glowmitra Oil Control Face Wash 100 g,Personal Care,Skin Care,Glowmitra,100 g,180.0,124.08,55.92,long,4
+SKU-JMK5JY,Utsav Ghar Rangoli Colours 6 shades,Puja & Festive,Festive Seasonal,Utsav Ghar,6 shades,130.0,79.3,50.7,long,4
+SKU-JMZO9H,Thanda Tonic Lemon Lime Soda 2 L,Beverages,Soft Drinks,Thanda Tonic,2 L,90.0,78.9,11.1,short,6
+SKU-JT3IDC,VoltPeak AA Alkaline Batteries 4 pcs,General Merchandise,Batteries,VoltPeak,4 pcs,180.0,127.72,52.28,long,6
+SKU-JT9THJ,Danta Shakti Cavity Protection Toothpaste 100 g,Personal Care,Oral Care,Danta Shakti,100 g,60.0,46.87,13.13,long,24
+SKU-JVDB5B,Kohl & Co Smudge-proof Kajal 0.35 g,Personal Care,Cosmetics,Kohl & Co,0.35 g,150.0,93.89,56.11,long,6
+SKU-JWVUZC,Biskit Basket Glucose Biscuits 800 g,Packaged Foods,Biscuits & Cookies,Biskit Basket,800 g,95.0,80.11,14.89,short,24
+SKU-JXOT0Z,Shuddh Ghar Bathroom Cleaner 500 ml,Home Care,Surface & Toilet Cleaners,Shuddh Ghar,500 ml,110.0,88.54,21.46,long,6
+SKU-JZJ7S0,Madhu Vatika Chyawanprash 1 kg,Health & Wellness,Health & Wellness,Madhu Vatika,1 kg,359.0,278.5,80.5,long,4
+SKU-K0EM5N,Biskit Basket Fruit Cake Slice 60 g,Packaged Foods,Bakery & Cakes,Biskit Basket,60 g,21.0,16.24,4.76,short,12
+SKU-K3KVMV,Nanhe Kadam Diaper Pants XL 28 pcs,Baby Care,Baby Care,Nanhe Kadam,28 pcs,699.0,592.85,106.15,long,3
+SKU-K4NI5H,Noodlo Hakka Noodles 150 g,Packaged Foods,Noodles & Pasta,Noodlo,150 g,35.0,30.43,4.57,short,6
+SKU-K5PCPN,Glowmitra Nail Enamel Pastel Pink 9 ml,Personal Care,Cosmetics,Glowmitra,9 ml,95.0,65.01,29.99,long,4
+SKU-K8DP5T,Shuddh Ghar Aluminium Foil 9 m,Home Care,Household Essentials,Shuddh Ghar,9 m,100.0,73.86,26.14,long,6
+SKU-K8TZ9S,Dabba Diaries Instant Idli Mix 500 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Dabba Diaries,500 g,110.0,88.66,21.34,short,24
+SKU-KAABJM,Halwai House Soan Papdi 250 g,Chocolates & Sweets,Sweets & Mithai,Halwai House,250 g,95.0,71.28,23.72,short,4
+SKU-KB1GN9,Chatpata Chef Mango Pickle 400 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,400 g,140.0,115.91,24.09,long,6
+SKU-KBQDJ4,Masala Mehfil Coriander Powder 200 g,Spices & Masalas,Ground Spices,Masala Mehfil,200 g,50.0,40.1,9.9,long,4
+SKU-KESQ83,Crunchwala Cashew Cookies 200 g,Packaged Foods,Biscuits & Cookies,Crunchwala,200 g,65.0,54.58,10.42,short,6
+SKU-KK6580,Kheti Kanak Thick Poha 500 g,Staples,Poha & Breakfast Staples,Kheti Kanak,500 g,45.0,39.37,5.63,long,12
+SKU-KNN8JD,Dhaanya Sutra Basmati Rice Classic 5 kg,Staples,Rice,Dhaanya Sutra,5 kg,779.0,701.41,77.59,long,3
+SKU-KRC0LC,Saffron Select Tomato Ketchup 950 g,Packaged Foods,"Sauces, Spreads & Pickles",Saffron Select,950 g,130.0,108.8,21.2,long,6
+SKU-KRLGWQ,Chocobahar Chocolate Wafer Bar 37 g,Chocolates & Sweets,Chocolates & Confectionery,Chocobahar,37 g,33.0,26.12,6.88,short,24
+SKU-KS9IYO,Shuddh Ghar Thick Toilet Cleaner 500 ml,Home Care,Surface & Toilet Cleaners,Shuddh Ghar,500 ml,100.0,82.08,17.92,long,6
+SKU-KY7UOZ,ChamakMax White Phenyl 1 L,Home Care,Surface & Toilet Cleaners,ChamakMax,1 L,90.0,74.73,15.27,long,6
+SKU-KZM93Z,Zaika Zone Chole Masala 100 g,Spices & Masalas,Ground Spices,Zaika Zone,100 g,80.0,63.44,16.56,long,6
+SKU-KZNNIJ,Badam Bagh Dried Figs (Anjeer) 200 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,200 g,359.0,303.51,55.49,long,4
+SKU-L1YAE8,Cocoa Kahani Assorted Chocolate Gift Box 250 g,Chocolates & Sweets,Chocolates & Confectionery,Cocoa Kahani,250 g,349.0,283.57,65.43,short,4
+SKU-L5WJ88,ChargeKart Power Bank 10000 mAh 1 pc,General Merchandise,Mobile Accessories,ChargeKart,1 pc,1309.0,843.54,465.46,long,3
+SKU-L71BTJ,Zaika Zone Coriander Powder 200 g,Spices & Masalas,Ground Spices,Zaika Zone,200 g,55.0,44.9,10.1,long,6
+SKU-L7DKK2,Saffron Select Bombay Rava (Sooji) 1 kg,Staples,Atta & Flours,Saffron Select,1 kg,60.0,54.07,5.93,long,6
+SKU-L7RW6D,Dhaanya Sutra Kabuli Chana 500 g,Staples,Pulses & Dals,Dhaanya Sutra,500 g,85.0,78.17,6.83,long,10
+SKU-L96BDL,Neem Nirmal Soft Toothbrush 1 pc,Personal Care,Oral Care,Neem Nirmal,1 pc,39.0,31.5,7.5,long,6
+SKU-LCANYJ,Shuddh Ghar White Phenyl 1 L,Home Care,Surface & Toilet Cleaners,Shuddh Ghar,1 L,80.0,64.36,15.64,long,6
+SKU-LDC35T,Saffron Select Pure Coconut Oil 1 L,Staples,Edible Oils,Saffron Select,1 L,359.0,335.75,23.25,long,6
+SKU-LDCVOF,Thanda Tonic Mango Drink 1.2 L,Beverages,Juices & Water,Thanda Tonic,1.2 L,70.0,59.6,10.4,short,6
+SKU-LDI4QN,Gramin Sona Rajma Chitra 500 g,Staples,Pulses & Dals,Gramin Sona,500 g,95.0,87.56,7.44,long,10
+SKU-LG68XY,Kashmeer Crest California Almonds 500 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,500 g,509.0,408.24,100.76,long,3
+SKU-LJ7OGP,Dabba Diaries Dalia (Broken Wheat) 500 g,Staples,Poha & Breakfast Staples,Dabba Diaries,500 g,44.0,39.23,4.77,long,4
+SKU-LJQIY9,Gramin Sona Urad Dal 1 kg,Staples,Pulses & Dals,Gramin Sona,1 kg,150.0,137.66,12.34,long,10
+SKU-LKDX4K,Masala Mehfil Turmeric Powder 200 g,Spices & Masalas,Ground Spices,Masala Mehfil,200 g,55.0,46.29,8.71,long,4
+SKU-LLR4VX,Crunchwala Milk Rusk 300 g,Packaged Foods,Biscuits & Cookies,Crunchwala,300 g,60.0,52.41,7.59,short,6
+SKU-LM20FN,Aarti Aangan Puja Deepam Oil 1 L,Puja & Festive,Puja Essentials,Aarti Aangan,1 L,135.0,88.62,46.38,long,6
+SKU-LP0FTQ,Kheti Kanak Whole Wheat Atta 5 kg,Staples,Atta & Flours,Kheti Kanak,5 kg,279.0,252.12,26.88,long,6
+SKU-LQK7I9,Himkulfi Vanilla Ice Cream Tub 700 ml,Dairy & Frozen,Ice Cream & Frozen,Himkulfi,700 ml,180.0,146.32,33.68,frozen,6
+SKU-LT1UJ9,Kheti Kanak Maida 1 kg,Staples,Atta & Flours,Kheti Kanak,1 kg,60.0,55.04,4.96,long,6
+SKU-LVEQQK,Tresslyn Natural Black Hair Colour 1 kit,Personal Care,Hair Care,Tresslyn,1 kit,45.0,35.08,9.92,long,6
+SKU-LW80S0,Tresslyn Anti-Dandruff Shampoo 180 ml,Personal Care,Hair Care,Tresslyn,180 ml,200.0,148.59,51.41,long,24
+SKU-LWJ1R2,Rasoi Rang Cloves (Laung) 50 g,Spices & Masalas,Whole Spices,Rasoi Rang,50 g,95.0,75.0,20.0,long,6
+SKU-LXIAP0,Malai Meadows Flavoured Milk Kesar Badam 180 ml,Dairy & Frozen,Dairy & Chilled,Malai Meadows,180 ml,34.0,30.84,3.16,chilled,6
+SKU-LZ7H17,Zaika Zone Sambar Powder 200 g,Spices & Masalas,Ground Spices,Zaika Zone,200 g,105.0,85.66,19.34,long,4
+SKU-LZUWT0,Dabba Diaries Macaroni 500 g,Packaged Foods,Noodles & Pasta,Dabba Diaries,500 g,95.0,82.42,12.58,short,6
+SKU-M40VR6,Saffron Select California Almonds 200 g,Dry Fruits & Nuts,Dry Fruits,Saffron Select,200 g,185.0,150.15,34.85,long,6
+SKU-M69WGS,Biskit Basket Marie Biscuits 250 g,Packaged Foods,Biscuits & Cookies,Biskit Basket,250 g,38.0,32.36,5.64,short,24
+SKU-M8WWUO,Dabba Diaries Creamy Peanut Butter 340 g,Packaged Foods,"Sauces, Spreads & Pickles",Dabba Diaries,340 g,209.0,169.56,39.44,long,6
+SKU-MAGC8M,Crunchwala Kerala Banana Chips 200 g,Packaged Foods,Namkeen & Chips,Crunchwala,200 g,80.0,67.4,12.6,short,24
+SKU-MAMVCY,Machhar Mukt Cockroach Spray 400 ml,Home Care,Pest Control,Machhar Mukt,400 ml,249.0,206.41,42.59,long,6
+SKU-MB8PAA,Ujjwal Wash Front Load Matic Powder 2 kg,Home Care,Laundry,Ujjwal Wash,2 kg,519.0,431.4,87.6,long,3
+SKU-MDRHRP,Komal Kaya Lime Fresh Bathing Soap 125 g,Personal Care,Bath & Body,Komal Kaya,125 g,45.0,36.73,8.27,long,24
+SKU-MF06DY,Shuddh Ghar Air Freshener Spray 240 ml,Home Care,Household Essentials,Shuddh Ghar,240 ml,200.0,157.5,42.5,long,6
+SKU-MG83RW,Neem Nirmal Frizz Control Hair Serum 100 ml,Personal Care,Hair Care,Neem Nirmal,100 ml,339.0,251.52,87.48,long,6
+SKU-MIM3QC,Rasoi Rang Compounded Asafoetida (Hing) 50 g,Spices & Masalas,Whole Spices,Rasoi Rang,50 g,120.0,99.08,20.92,long,6
+SKU-MJJ748,Dhaanya Sutra Basmati Rice Classic 1 kg,Staples,Rice,Dhaanya Sutra,1 kg,165.0,149.42,15.58,long,6
+SKU-MK06VX,Shuddh Ghar Liquid Vaporiser Refill 45 ml,Home Care,Pest Control,Shuddh Ghar,45 ml,90.0,71.61,18.39,long,6
+SKU-MK92DZ,Himkulfi Frozen Green Peas 500 g,Dairy & Frozen,Ice Cream & Frozen,Himkulfi,500 g,110.0,87.18,22.82,frozen,6
+SKU-ML4YIO,Chatpata Chef Potato Chips Masala 50 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,50 g,22.0,18.87,3.13,short,24
+SKU-MLY0WS,Dabba Diaries Mixed Fruit Jam 500 g,Packaged Foods,"Sauces, Spreads & Pickles",Dabba Diaries,500 g,190.0,161.62,28.38,long,6
+SKU-MMKW7C,Dhaanya Sutra Kerala Matta Rice 5 kg,Staples,Rice,Dhaanya Sutra,5 kg,339.0,304.38,34.62,long,6
+SKU-MMRCPA,Dabba Diaries Payasam Mix 200 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Dabba Diaries,200 g,85.0,72.36,12.64,short,6
+SKU-MNJYCS,Glowmitra Smudge-proof Kajal 0.35 g,Personal Care,Cosmetics,Glowmitra,0.35 g,150.0,97.68,52.32,long,6
+SKU-MPKY8Q,Komal Kaya Day Cream SPF 15 50 g,Personal Care,Skin Care,Komal Kaya,50 g,239.0,178.67,60.33,long,6
+SKU-MQ3UYP,Fizzora Lemon Lime Soda 750 ml,Beverages,Soft Drinks,Fizzora,750 ml,40.0,34.76,5.24,short,24
+SKU-MQ8A2B,Aarti Aangan Rangoli Colours 6 shades,Puja & Festive,Festive Seasonal,Aarti Aangan,6 shades,120.0,81.7,38.3,long,4
+SKU-MWAJBK,Halwai House Gulab Jamun Tin 1 kg,Chocolates & Sweets,Sweets & Mithai,Halwai House,1 kg,249.0,188.45,60.55,short,6
+SKU-MZVQZ3,Dabba Diaries Milk Rusk 300 g,Packaged Foods,Biscuits & Cookies,Dabba Diaries,300 g,65.0,56.89,8.11,short,6
+SKU-N3SPWZ,Tresslyn Herbal Shampoo 200 ml,Personal Care,Hair Care,Tresslyn,200 ml,160.0,120.57,39.43,long,4
+SKU-N40MOY,Dhaanya Sutra Urad Dal 1 kg,Staples,Pulses & Dals,Dhaanya Sutra,1 kg,135.0,124.39,10.61,long,4
+SKU-N5HG4S,FreshFolk Perfume Body Spray 120 ml,Personal Care,Men's Grooming,FreshFolk,120 ml,229.0,154.67,74.33,long,6
+SKU-NBIKAE,Badam Bagh Seedless Raisins 500 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,500 g,219.0,174.34,44.66,long,6
+SKU-NBXRKN,Chocobahar Assorted Chocolate Gift Box 250 g,Chocolates & Sweets,Chocolates & Confectionery,Chocobahar,250 g,319.0,253.37,65.63,short,4
+SKU-NCZ4Z6,Roshni Home Decorative LED String Lights 10 m,General Merchandise,Electricals,Roshni Home,10 m,249.0,162.84,86.16,long,4
+SKU-NEUSOU,FreshFolk Beard Oil 30 ml,Personal Care,Men's Grooming,FreshFolk,30 ml,329.0,238.22,90.78,long,4
+SKU-NGBH2G,Brewbay Malt Health Drink Refill 1 kg,Beverages,Health Drinks,Brewbay,1 kg,449.0,379.42,69.58,long,6
+SKU-NI870O,Pahadi Patti Premium Leaf Tea 500 g,Beverages,Tea,Pahadi Patti,500 g,289.0,246.25,42.75,long,6
+SKU-NICD7T,Bubble Bunny Diaper Pants Medium 76 pcs,Baby Care,Baby Care,Bubble Bunny,76 pcs,1099.0,956.4,142.6,long,3
+SKU-NK0XWJ,Komal Kaya Sunscreen SPF 50 50 g,Personal Care,Skin Care,Komal Kaya,50 g,349.0,242.66,106.34,long,24
+SKU-NK3HIY,SmoothEdge Deodorant Spray Aqua 150 ml,Personal Care,Men's Grooming,SmoothEdge,150 ml,229.0,163.75,65.25,long,6
+SKU-NLFKVA,Bubble Bunny Infant Formula Stage 1 400 g,Baby Care,Baby Care,Bubble Bunny,400 g,439.0,366.91,72.09,long,4
+SKU-NMVJKZ,Saffron Select Roasted Makhana 250 g,Dry Fruits & Nuts,Dry Fruits,Saffron Select,250 g,279.0,223.21,55.79,long,4
+SKU-NP7RS1,Nanhe Kadam Tear-free Baby Shampoo 200 ml,Baby Care,Baby Care,Nanhe Kadam,200 ml,209.0,181.08,27.92,long,6
+SKU-NQ41ZN,FreshFolk Deodorant Spray Aqua 150 ml,Personal Care,Men's Grooming,FreshFolk,150 ml,259.0,186.43,72.57,long,4
+SKU-NS4ZEI,Saffron Select Masala Chai Blend 250 g,Beverages,Tea,Saffron Select,250 g,140.0,116.07,23.93,long,6
+SKU-NUP6YE,Pustak Pro Ruled Notebook 172 Pages 6 pcs,General Merchandise,Stationery,Pustak Pro,6 pcs,289.0,213.89,75.11,long,6
+SKU-NYM5EB,Gwala Gold Desi Danedar Ghee 500 ml,Staples,Ghee,Gwala Gold,500 ml,359.0,329.46,29.54,long,4
+SKU-O2OTM5,Kheti Kanak Refined Sunflower Oil 1 L,Staples,Edible Oils,Kheti Kanak,1 L,140.0,130.01,9.99,long,12
+SKU-O5J13C,Gramin Sona Kabuli Chana 500 g,Staples,Pulses & Dals,Gramin Sona,500 g,85.0,77.84,7.16,long,10
+SKU-O9DA85,ChamakMax Detergent Bar 4 x 250 g,Home Care,Laundry,ChamakMax,4 x 250 g,105.0,89.29,15.71,long,6
+SKU-OADN12,Dabba Diaries Glucose Biscuits 200 g,Packaged Foods,Biscuits & Cookies,Dabba Diaries,200 g,28.0,24.38,3.62,short,24
+SKU-OC2W52,Rasoi Rang Payasam Mix 200 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Rasoi Rang,200 g,95.0,79.15,15.85,short,6
+SKU-ODHN0M,Ujjwal Wash Liquid Detergent 1 L,Home Care,Laundry,Ujjwal Wash,1 L,229.0,198.38,30.62,long,12
+SKU-ODU4CE,Likhna Ruled Notebook 172 Pages 1 pc,General Merchandise,Stationery,Likhna,1 pc,60.0,43.54,16.46,long,6
+SKU-ODX8OC,Komal Kaya Smooth & Shine Shampoo 180 ml,Personal Care,Hair Care,Komal Kaya,180 ml,175.0,133.99,41.01,long,4
+SKU-OE2H0A,Rasoi Rang Instant Idli Mix 500 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Rasoi Rang,500 g,110.0,91.61,18.39,short,6
+SKU-OFGRUL,Mithas Mahal Besan Ladoo 400 g,Chocolates & Sweets,Sweets & Mithai,Mithas Mahal,400 g,219.0,169.38,49.62,short,4
+SKU-OFUXDW,Tresslyn Smooth & Shine Shampoo 180 ml,Personal Care,Hair Care,Tresslyn,180 ml,185.0,134.68,50.32,long,6
+SKU-OGJX8X,Danta Shakti Soft Toothbrush 1 pc,Personal Care,Oral Care,Danta Shakti,1 pc,40.0,31.94,8.06,long,24
+SKU-OH2TQA,Rasoi Rang Kitchen King Masala 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,80.0,64.44,15.56,long,6
+SKU-OJ6E5Z,Neem Nirmal Smooth & Shine Shampoo 180 ml,Personal Care,Hair Care,Neem Nirmal,180 ml,180.0,138.2,41.8,long,6
+SKU-OJBKIV,Noodlo Macaroni 500 g,Packaged Foods,Noodles & Pasta,Noodlo,500 g,85.0,72.85,12.15,short,4
+SKU-OK6B5H,Kheti Kanak Dalia (Broken Wheat) 500 g,Staples,Poha & Breakfast Staples,Kheti Kanak,500 g,48.0,41.83,6.17,long,4
+SKU-OMSFLL,Dabba Diaries Salted Crackers 200 g,Packaged Foods,Biscuits & Cookies,Dabba Diaries,200 g,39.0,32.83,6.17,short,6
+SKU-ON4422,Ayurmaa ORS Powder Sachet 21 g,Health & Wellness,Health & Wellness,Ayurmaa,21 g,22.0,17.46,4.54,long,6
+SKU-OOFJKA,Saffron Select Safety Matchboxes 10 boxes,Home Care,Household Essentials,Saffron Select,10 boxes,17.0,12.71,4.29,long,6
+SKU-OPD7VQ,Biskit Basket Cashew Cookies 200 g,Packaged Foods,Biscuits & Cookies,Biskit Basket,200 g,70.0,61.54,8.46,short,24
+SKU-OPGFFR,Bubble Bunny Diaper Pants Small 42 pcs,Baby Care,Baby Care,Bubble Bunny,42 pcs,659.0,550.77,108.23,long,3
+SKU-OR105F,Machhar Mukt Liquid Vaporiser Refill 45 ml,Home Care,Pest Control,Machhar Mukt,45 ml,85.0,69.06,15.94,long,24
+SKU-OTBCQH,Phalwala Mixed Fruit Juice 1 L,Beverages,Juices & Water,Phalwala,1 L,125.0,105.11,19.89,short,12
+SKU-OV1PXV,Dhaanya Sutra Ponni Boiled Rice 5 kg,Staples,Rice,Dhaanya Sutra,5 kg,299.0,268.24,30.76,long,6
+SKU-OVKTCZ,Zaika Zone Black Pepper Whole 100 g,Spices & Masalas,Whole Spices,Zaika Zone,100 g,120.0,97.09,22.91,long,6
+SKU-OW72V1,Nanhe Kadam Baby Powder 200 g,Baby Care,Baby Care,Nanhe Kadam,200 g,200.0,171.21,28.79,long,6
+SKU-P7OBX2,Glowmitra Volumising Mascara 8 ml,Personal Care,Cosmetics,Glowmitra,8 ml,319.0,192.48,126.52,long,4
+SKU-PAYC7O,Malai Meadows Malai Kulfi Stick 60 ml,Dairy & Frozen,Ice Cream & Frozen,Malai Meadows,60 ml,30.0,23.98,6.02,frozen,6
+SKU-PB3HP8,Badam Bagh California Almonds 500 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,500 g,519.0,416.71,102.29,long,3
+SKU-PBYWM0,Chatpata Chef Peri Peri Nachos 60 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,60 g,33.0,28.46,4.54,short,24
+SKU-PECD1S,Sunehri Ghani Refined Sugar 5 kg,Staples,"Sugar, Salt & Jaggery",Sunehri Ghani,5 kg,239.0,222.8,16.2,long,10
+SKU-PFI6CA,Kashmeer Crest Roasted Salted Pistachios 200 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,200 g,299.0,247.63,51.37,long,6
+SKU-PGUYIF,Dabba Diaries Upma Mix 200 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Dabba Diaries,200 g,60.0,50.23,9.77,short,6
+SKU-PIAVZH,Pahadi Patti Elaichi Tea 250 g,Beverages,Tea,Pahadi Patti,250 g,160.0,138.14,21.86,long,6
+SKU-PJ3TJ7,Rasoi Rang Coriander Powder 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,30.0,24.69,5.31,long,6
+SKU-PK3W91,Crunchwala Navratan Mixture 200 g,Packaged Foods,Namkeen & Chips,Crunchwala,200 g,55.0,45.25,9.75,short,24
+SKU-PK8PRD,Kashmeer Crest Whole Cashews W320 200 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,200 g,269.0,216.94,52.06,long,6
+SKU-PLALLH,Glowmitra Liquid Eyeliner 3 ml,Personal Care,Cosmetics,Glowmitra,3 ml,209.0,145.45,63.55,long,4
+SKU-PLVDC0,FreshFolk Shaving Foam 418 g,Personal Care,Men's Grooming,FreshFolk,418 g,259.0,185.58,73.42,long,4
+SKU-PMJUH5,Zaika Zone Kashmiri Saffron (Kesar) 2 g,Spices & Masalas,Whole Spices,Zaika Zone,2 g,549.0,431.29,117.71,long,3
+SKU-PMLKJO,Saffron Select Basmati Rice Classic 1 kg,Staples,Rice,Saffron Select,1 kg,140.0,128.89,11.11,long,6
+SKU-PNXV3O,Crunchwala Butter Cookies 200 g,Packaged Foods,Biscuits & Cookies,Crunchwala,200 g,50.0,42.41,7.59,short,24
+SKU-POJ91P,Phalwala Tender Coconut Water 200 ml,Beverages,Juices & Water,Phalwala,200 ml,45.0,38.95,6.05,short,12
+SKU-PR9VIV,Komal Kaya Handwash Pump 200 ml,Personal Care,Bath & Body,Komal Kaya,200 ml,95.0,77.26,17.74,long,24
+SKU-PRDTYC,Kheti Kanak Kolam Rice 1 kg,Staples,Rice,Kheti Kanak,1 kg,65.0,59.96,5.04,long,6
+SKU-PRIM38,Nanhe Kadam Diaper Pants Medium 38 pcs,Baby Care,Baby Care,Nanhe Kadam,38 pcs,699.0,585.42,113.58,long,3
+SKU-PSP0NI,Saffron Select Toor Dal 1 kg,Staples,Pulses & Dals,Saffron Select,1 kg,140.0,127.2,12.8,long,6
+SKU-PU4O8I,Ayurmaa Multivitamin Gummies 30 pcs,Health & Wellness,Health & Wellness,Ayurmaa,30 pcs,399.0,320.73,78.27,long,4
+SKU-PUSPN0,Chatpata Chef Urad Papad 200 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,200 g,70.0,58.49,11.51,long,4
+SKU-PZP7BQ,Zaika Zone Jeera (Cumin Seeds) 200 g,Spices & Masalas,Whole Spices,Zaika Zone,200 g,130.0,106.54,23.46,long,6
+SKU-PZYRSK,Saffron Select Ponni Boiled Rice 5 kg,Staples,Rice,Saffron Select,5 kg,249.0,229.66,19.34,long,6
+SKU-Q0MMCH,Komal Kaya Brightening Face Wash 100 g,Personal Care,Skin Care,Komal Kaya,100 g,200.0,150.2,49.8,long,6
+SKU-Q5GCNU,Halwai House Besan Ladoo 400 g,Chocolates & Sweets,Sweets & Mithai,Halwai House,400 g,249.0,201.12,47.88,short,4
+SKU-Q631TH,Gramin Sona Masoor Dal 500 g,Staples,Pulses & Dals,Gramin Sona,500 g,60.0,55.62,4.38,long,10
+SKU-Q9QQS3,Kohl & Co Volumising Mascara 8 ml,Personal Care,Cosmetics,Kohl & Co,8 ml,299.0,185.88,113.12,long,4
+SKU-QCJPW2,Phalwala Mango Drink 1.2 L,Beverages,Juices & Water,Phalwala,1.2 L,75.0,65.2,9.8,short,6
+SKU-QGVOSM,Tresslyn Anti-Dandruff Shampoo 340 ml,Personal Care,Hair Care,Tresslyn,340 ml,339.0,257.81,81.19,long,4
+SKU-QH1HT3,ChamakMax Thick Toilet Cleaner 500 ml,Home Care,Surface & Toilet Cleaners,ChamakMax,500 ml,95.0,75.46,19.54,long,4
+SKU-QI5J3F,Kheti Kanak Ponni Boiled Rice 1 kg,Staples,Rice,Kheti Kanak,1 kg,70.0,64.59,5.41,long,6
+SKU-QKE11B,Kheti Kanak Roasted Vermicelli 400 g,Staples,Poha & Breakfast Staples,Kheti Kanak,400 g,45.0,39.9,5.1,long,12
+SKU-QL6ONY,Cocoa Kahani Milk Chocolate Bar 13 g,Chocolates & Sweets,Chocolates & Confectionery,Cocoa Kahani,13 g,10.0,8.1,1.9,short,24
+SKU-QLJSK2,WrapWell Kitchen Towel Rolls 2 rolls,Home Care,Household Essentials,WrapWell,2 rolls,160.0,120.92,39.08,long,4
+SKU-QN829B,Rasoi Rang Ready-to-Eat Dal Makhani 300 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Rasoi Rang,300 g,130.0,110.22,19.78,short,6
+SKU-QN98W7,Saffron Select Toilet Tissue Rolls 4 rolls,Home Care,Household Essentials,Saffron Select,4 rolls,140.0,106.87,33.13,long,4
+SKU-QQNXK7,Gwala Gold Pure Cow Ghee 500 ml,Staples,Ghee,Gwala Gold,500 ml,339.0,308.44,30.56,long,12
+SKU-QQXT43,Kohl & Co Liquid Lipstick Coral 4 ml,Personal Care,Cosmetics,Kohl & Co,4 ml,349.0,234.2,114.8,long,4
+SKU-QSYRH9,Aarti Aangan Kumkum 20 g,Puja & Festive,Puja Essentials,Aarti Aangan,20 g,25.0,17.11,7.89,long,4
+SKU-QTGTN4,Rasoi Rang Red Chilli Powder 200 g,Spices & Masalas,Ground Spices,Rasoi Rang,200 g,85.0,68.93,16.07,long,6
+SKU-QU50AZ,Aarti Aangan Rose Agarbatti 100 g,Puja & Festive,Puja Essentials,Aarti Aangan,100 g,75.0,53.54,21.46,long,6
+SKU-QV27MA,Mithas Mahal Gulab Jamun Tin 1 kg,Chocolates & Sweets,Sweets & Mithai,Mithas Mahal,1 kg,239.0,193.06,45.94,short,4
+SKU-QVHBVU,Pahadi Patti Premium Leaf Tea 250 g,Beverages,Tea,Pahadi Patti,250 g,150.0,124.87,25.13,long,24
+SKU-QVS4VK,Rasoi Rang Meat Masala 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,85.0,67.63,17.37,long,6
+SKU-QWT62O,Shuddh Ghar Garbage Bags Large 15 pcs,Home Care,Household Essentials,Shuddh Ghar,15 pcs,100.0,74.79,25.21,long,6
+SKU-QWX3PD,Urjaa Cell AAA Alkaline Batteries 4 pcs,General Merchandise,Batteries,Urjaa Cell,4 pcs,200.0,137.84,62.16,long,4
+SKU-QYE3JZ,Roshni Home LED Batten 20 W 1 pc,General Merchandise,Electricals,Roshni Home,1 pc,349.0,237.08,111.92,long,4
+SKU-QYPB9I,Ujjwal Wash Dishwash Liquid Lemon 500 ml,Home Care,Dishwash,Ujjwal Wash,500 ml,105.0,87.04,17.96,long,24
+SKU-R0V031,Neem Nirmal Cold Cream 200 ml,Personal Care,Skin Care,Neem Nirmal,200 ml,239.0,170.14,68.86,long,4
+SKU-R291VP,Dhaanya Sutra Basmati Rice Rozana 1 kg,Staples,Rice,Dhaanya Sutra,1 kg,110.0,100.51,9.49,long,6
+SKU-R32CZ7,ChamakMax Glass Cleaner Spray 500 ml,Home Care,Surface & Toilet Cleaners,ChamakMax,500 ml,95.0,79.76,15.24,long,6
+SKU-R3SZ57,Thanda Tonic Masala Jeera Soda 250 ml,Beverages,Soft Drinks,Thanda Tonic,250 ml,20.0,17.48,2.52,short,24
+SKU-R4ZBDW,Crunchwala Potato Chips Masala 50 g,Packaged Foods,Namkeen & Chips,Crunchwala,50 g,20.0,16.7,3.3,short,24
+SKU-R5B1DU,Glowmitra Nail Enamel Cherry 9 ml,Personal Care,Cosmetics,Glowmitra,9 ml,100.0,66.48,33.52,long,6
+SKU-R67AB6,Madhu Vatika Pure Honey 500 g,Health & Wellness,Health & Wellness,Madhu Vatika,500 g,249.0,198.9,50.1,long,4
+SKU-R6HS8N,Biskit Basket Butter Cookies 200 g,Packaged Foods,Biscuits & Cookies,Biskit Basket,200 g,55.0,46.35,8.65,short,24
+SKU-R975AD,Chatpata Chef Tomato Ketchup 950 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,950 g,150.0,120.8,29.2,long,6
+SKU-R9ZH1J,Kashmeer Crest Premium Dates (Khajur) 500 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,500 g,219.0,176.33,42.67,long,6
+SKU-RAO5OL,Himkulfi Butterscotch Ice Cream Tub 700 ml,Dairy & Frozen,Ice Cream & Frozen,Himkulfi,700 ml,190.0,150.26,39.74,frozen,6
+SKU-RAVC9W,Bubble Bunny Diaper Pants Medium 38 pcs,Baby Care,Baby Care,Bubble Bunny,38 pcs,739.0,623.83,115.17,long,3
+SKU-REZWYH,Komal Kaya Frizz Control Hair Serum 100 ml,Personal Care,Hair Care,Komal Kaya,100 ml,329.0,239.76,89.24,long,4
+SKU-RGWI6N,Pavitra Path Puja Deepam Oil 1 L,Puja & Festive,Puja Essentials,Pavitra Path,1 L,140.0,101.41,38.59,long,4
+SKU-RM6IX0,Saffron Select Strong Dust Tea 500 g,Beverages,Tea,Saffron Select,500 g,219.0,184.35,34.65,long,6
+SKU-RR1YSB,Chocobahar Assorted Chocolate Gift Box 400 g,Chocolates & Sweets,Chocolates & Confectionery,Chocobahar,400 g,509.0,402.18,106.82,short,3
+SKU-RWE61R,Dabba Diaries Corn Flakes 475 g,Packaged Foods,Breakfast Cereals,Dabba Diaries,475 g,190.0,163.46,26.54,short,6
+SKU-RYH5DX,SmoothEdge Beard Oil 30 ml,Personal Care,Men's Grooming,SmoothEdge,30 ml,349.0,231.73,117.27,long,4
+SKU-S1IEW5,Malai Meadows Frozen Green Peas 500 g,Dairy & Frozen,Ice Cream & Frozen,Malai Meadows,500 g,110.0,90.19,19.81,frozen,4
+SKU-S3W82Z,Bubble Bunny Tear-free Baby Shampoo 200 ml,Baby Care,Baby Care,Bubble Bunny,200 ml,190.0,161.55,28.45,long,4
+SKU-S5VZR7,Kheti Kanak Rice Bran Oil 1 L,Staples,Edible Oils,Kheti Kanak,1 L,180.0,168.32,11.68,long,6
+SKU-S61N4T,Kashmeer Crest Walnut Kernels 200 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,200 g,349.0,290.46,58.54,long,4
+SKU-SARVKJ,Gwala Fresh Mozzarella Block 200 g,Dairy & Frozen,Dairy & Chilled,Gwala Fresh,200 g,130.0,118.67,11.33,chilled,6
+SKU-SEZ0AK,Badam Bagh Walnut Kernels 200 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,200 g,359.0,303.32,55.68,long,12
+SKU-SFEVRO,Dhaanya Sutra Moong Dal 500 g,Staples,Pulses & Dals,Dhaanya Sutra,500 g,75.0,68.82,6.18,long,10
+SKU-SFOGXE,Ujjwal Wash Detergent Powder 4 kg,Home Care,Laundry,Ujjwal Wash,4 kg,449.0,378.97,70.03,long,6
+SKU-SGGJ1O,SmoothEdge Lather Shaving Cream 70 g,Personal Care,Men's Grooming,SmoothEdge,70 g,80.0,55.33,24.67,long,12
+SKU-SH96F2,Ayurmaa Chyawanprash 1 kg,Health & Wellness,Health & Wellness,Ayurmaa,1 kg,409.0,320.46,88.54,long,6
+SKU-SIJAYY,ChamakMax Steel Wool Scrubber 3 pcs,Home Care,Dishwash,ChamakMax,3 pcs,30.0,25.15,4.85,long,24
+SKU-SJ7J1K,Nanhe Kadam Baby Cereal Wheat Apple 300 g,Baby Care,Baby Care,Nanhe Kadam,300 g,279.0,232.16,46.84,long,6
+SKU-SLMDVU,Saffron Select Masoor Dal 500 g,Staples,Pulses & Dals,Saffron Select,500 g,50.0,45.67,4.33,long,10
+SKU-SMF9BS,WrapWell Garbage Bags Medium 30 pcs,Home Care,Household Essentials,WrapWell,30 pcs,95.0,72.4,22.6,long,4
+SKU-SMTCEU,Rasoi Rang Kasuri Methi 25 g,Spices & Masalas,Ground Spices,Rasoi Rang,25 g,32.0,26.17,5.83,long,4
+SKU-SQ9329,Bubble Bunny Baby Wipes 72 pcs,Baby Care,Baby Care,Bubble Bunny,72 pcs,219.0,189.49,29.51,long,6
+SKU-SR2404,Chatpata Chef Potato Chips Cream & Onion 50 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,50 g,18.0,14.81,3.19,short,6
+SKU-SS41J2,Rasoi Rang Sambar Powder 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,55.0,45.8,9.2,long,6
+SKU-SSV986,Plugzy Power Bank 10000 mAh 1 pc,General Merchandise,Mobile Accessories,Plugzy,1 pc,1299.0,735.16,563.84,long,3
+SKU-SUBONS,Sunrise Bowl Instant Masala Oats 38 g,Packaged Foods,Breakfast Cereals,Sunrise Bowl,38 g,15.0,12.89,2.11,short,6
+SKU-SW4V46,ChargeKart Wired Earphones with Mic 1 pc,General Merchandise,Mobile Accessories,ChargeKart,1 pc,409.0,265.62,143.38,long,4
+SKU-SX861I,Saffron Select Moong Dal 1 kg,Staples,Pulses & Dals,Saffron Select,1 kg,120.0,110.55,9.45,long,6
+SKU-SY0UYC,Madhu Vatika Pure Honey 1 kg,Health & Wellness,Health & Wellness,Madhu Vatika,1 kg,459.0,372.35,86.65,long,4
+SKU-SY5OG1,Saffron Select Liquid Detergent 2 L,Home Care,Laundry,Saffron Select,2 L,359.0,311.08,47.92,long,12
+SKU-T066CV,Chatpata Chef Potato Chips Masala 115 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,115 g,55.0,44.96,10.04,short,6
+SKU-T2O4WX,SmoothEdge 3-Blade Razor Cartridges 4 pcs,Personal Care,Men's Grooming,SmoothEdge,4 pcs,699.0,487.49,211.51,long,3
+SKU-T3MV4R,FreshFolk Sandal Bathing Soap 4 x 100 g,Personal Care,Bath & Body,FreshFolk,4 x 100 g,150.0,122.88,27.12,long,24
+SKU-T49X2R,Rasoi Rang Seviyan Kheer Mix 200 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Rasoi Rang,200 g,100.0,84.36,15.64,short,6
+SKU-T5EE5T,Gwala Fresh Fresh Cream 250 ml,Dairy & Frozen,Dairy & Chilled,Gwala Fresh,250 ml,75.0,67.05,7.95,chilled,12
+SKU-T5KVZF,Rasoi Rang Kashmiri Saffron (Kesar) 1 g,Spices & Masalas,Whole Spices,Rasoi Rang,1 g,299.0,230.77,68.23,long,4
+SKU-T6ODMT,Noodlo Masala Instant Noodles 4 x 70 g,Packaged Foods,Noodles & Pasta,Noodlo,4 x 70 g,55.0,47.12,7.88,short,6
+SKU-T7HO92,Biskit Basket Chocolate Cream Biscuits 120 g,Packaged Foods,Biscuits & Cookies,Biskit Basket,120 g,30.0,25.71,4.29,short,24
+SKU-T8KO4Y,Thanda Tonic Orange Soda 750 ml,Beverages,Soft Drinks,Thanda Tonic,750 ml,39.0,34.3,4.7,short,24
+SKU-T9CQPT,Malai Meadows Processed Cheese Slices 200 g,Dairy & Frozen,Dairy & Chilled,Malai Meadows,200 g,160.0,144.33,15.67,chilled,6
+SKU-TANZHJ,Sakhi Care Sanitary Pads XXL Overnight 15 pads,Personal Care,Feminine Hygiene,Sakhi Care,15 pads,200.0,164.72,35.28,long,24
+SKU-TBVAA7,Saffron Select Kitchen Towel Rolls 2 rolls,Home Care,Household Essentials,Saffron Select,2 rolls,120.0,91.51,28.49,long,4
+SKU-TCWBR0,Rasoi Rang Mustard Seeds (Rai) 100 g,Spices & Masalas,Whole Spices,Rasoi Rang,100 g,25.0,20.51,4.49,long,24
+SKU-TDROUJ,Gwala Gold Pure Cow Ghee 200 ml,Staples,Ghee,Gwala Gold,200 ml,140.0,128.81,11.19,long,12
+SKU-TENNFZ,Gramin Sona Whole Wheat Atta 10 kg,Staples,Atta & Flours,Gramin Sona,10 kg,589.0,529.1,59.9,long,3
+SKU-TEUACI,Zaika Zone Turmeric Powder 200 g,Spices & Masalas,Ground Spices,Zaika Zone,200 g,70.0,59.22,10.78,long,6
+SKU-TFNP25,Biskit Basket Chocolate Muffins 4 pcs,Packaged Foods,Bakery & Cakes,Biskit Basket,4 pcs,130.0,106.96,23.04,short,12
+SKU-TGLS02,Glowmitra Compact Powder Natural 9 g,Personal Care,Cosmetics,Glowmitra,9 g,219.0,133.31,85.69,long,4
+SKU-THDNMF,Tresslyn Smooth & Shine Shampoo 650 ml,Personal Care,Hair Care,Tresslyn,650 ml,579.0,437.98,141.02,long,3
+SKU-THURMJ,Bakeshala Chocolate Muffins 4 pcs,Packaged Foods,Bakery & Cakes,Bakeshala,4 pcs,120.0,94.83,25.17,short,6
+SKU-TI0CMZ,FreshFolk Double Edge Blades 10 pcs,Personal Care,Men's Grooming,FreshFolk,10 pcs,50.0,34.1,15.9,long,4
+SKU-TNO9TP,Saffron Select Whole Wheat Atta 5 kg,Staples,Atta & Flours,Saffron Select,5 kg,249.0,226.58,22.42,long,6
+SKU-TPAPVU,Cocoa Kahani Dark Chocolate 70% 90 g,Chocolates & Sweets,Chocolates & Confectionery,Cocoa Kahani,90 g,180.0,147.95,32.05,short,6
+SKU-TRB1XE,Zaika Zone Mustard Seeds (Rai) 100 g,Spices & Masalas,Whole Spices,Zaika Zone,100 g,27.0,21.87,5.13,long,4
+SKU-U1ZP0N,Rasoi Rang Biryani Masala 50 g,Spices & Masalas,Ground Spices,Rasoi Rang,50 g,60.0,48.04,11.96,long,6
+SKU-U3SYW4,Thanda Tonic Cola Can 300 ml,Beverages,Soft Drinks,Thanda Tonic,300 ml,42.0,35.62,6.38,short,6
+SKU-U5SGES,Plugzy Wired Earphones with Mic 1 pc,General Merchandise,Mobile Accessories,Plugzy,1 pc,399.0,216.5,182.5,long,4
+SKU-U8XSNS,Shuddh Ghar White Candles 6 pcs,Home Care,Household Essentials,Shuddh Ghar,6 pcs,60.0,43.45,16.55,long,6
+SKU-U9635W,Zaika Zone Meat Masala 100 g,Spices & Masalas,Ground Spices,Zaika Zone,100 g,90.0,71.54,18.46,long,4
+SKU-UDG22B,Dabba Diaries Instant Dosa Mix 500 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Dabba Diaries,500 g,115.0,97.47,17.53,short,6
+SKU-UGQW31,Kohl & Co Compact Powder Natural 9 g,Personal Care,Cosmetics,Kohl & Co,9 g,219.0,140.58,78.42,long,6
+SKU-UHPN7X,Likhna Ruled Notebook 172 Pages 6 pcs,General Merchandise,Stationery,Likhna,6 pcs,329.0,243.41,85.59,long,24
+SKU-UHS17J,Crunchwala Potato Chips Masala 115 g,Packaged Foods,Namkeen & Chips,Crunchwala,115 g,50.0,41.24,8.76,short,24
+SKU-UHX4TY,Malai Meadows Salted Butter 100 g,Dairy & Frozen,Dairy & Chilled,Malai Meadows,100 g,65.0,59.1,5.9,chilled,6
+SKU-UIN2C3,Pavitra Path Sandal Agarbatti 100 g,Puja & Festive,Puja Essentials,Pavitra Path,100 g,70.0,49.62,20.38,long,6
+SKU-UIYPS5,Brewbay Filter Coffee Powder 80:20 500 g,Beverages,Coffee,Brewbay,500 g,329.0,279.04,49.96,long,6
+SKU-UKI1GY,Neem Nirmal Smooth & Shine Shampoo 650 ml,Personal Care,Hair Care,Neem Nirmal,650 ml,509.0,382.82,126.18,long,3
+SKU-UM9PT7,Gwala Gold Desi Danedar Ghee 1 L,Staples,Ghee,Gwala Gold,1 L,689.0,635.89,53.11,long,3
+SKU-UNSE1Y,VoltPeak 9V Battery 1 pc,General Merchandise,Batteries,VoltPeak,1 pc,200.0,134.54,65.46,long,4
+SKU-UNU47H,Pahadi Patti Green Tea Bags 25 bags,Beverages,Tea,Pahadi Patti,25 bags,160.0,136.21,23.79,long,4
+SKU-UOPT63,Chatpata Chef Lime Pickle 400 g,Packaged Foods,"Sauces, Spreads & Pickles",Chatpata Chef,400 g,130.0,107.85,22.15,long,12
+SKU-UPYY2B,Nanhe Kadam Baby Wipes 72 pcs,Baby Care,Baby Care,Nanhe Kadam,72 pcs,200.0,174.2,25.8,long,6
+SKU-URUKT3,Saffron Select Jaggery Powder 500 g,Staples,"Sugar, Salt & Jaggery",Saffron Select,500 g,60.0,56.05,3.95,long,4
+SKU-US8ZW1,Dabba Diaries Lime Pickle 400 g,Packaged Foods,"Sauces, Spreads & Pickles",Dabba Diaries,400 g,125.0,101.41,23.59,long,6
+SKU-USYI10,Madhu Vatika Isabgol Husk 100 g,Health & Wellness,Health & Wellness,Madhu Vatika,100 g,140.0,104.82,35.18,long,4
+SKU-UTLTSW,Gramin Sona Sabudana 500 g,Staples,Atta & Flours,Gramin Sona,500 g,70.0,62.97,7.03,long,4
+SKU-UYC5TS,Saffron Select Sabudana 1 kg,Staples,Atta & Flours,Saffron Select,1 kg,100.0,89.78,10.22,long,4
+SKU-UZ3GMK,Malai Meadows Desi Danedar Ghee 1 L,Staples,Ghee,Malai Meadows,1 L,699.0,636.91,62.09,long,3
+SKU-V1BZHT,Gwala Fresh Cheese Cubes 200 g,Dairy & Frozen,Dairy & Chilled,Gwala Fresh,200 g,145.0,132.24,12.76,chilled,6
+SKU-V84YPI,FreshFolk Twin Blade Disposable Razors 5 pcs,Personal Care,Men's Grooming,FreshFolk,5 pcs,125.0,82.75,42.25,long,6
+SKU-V8SAA4,Crunchwala Peri Peri Nachos 60 g,Packaged Foods,Namkeen & Chips,Crunchwala,60 g,30.0,24.71,5.29,short,24
+SKU-V9DUPU,Neem Nirmal Daily Conditioner 180 ml,Personal Care,Hair Care,Neem Nirmal,180 ml,190.0,146.77,43.23,long,4
+SKU-VBW1RB,Saffron Select Multigrain Atta 5 kg,Staples,Atta & Flours,Saffron Select,5 kg,339.0,308.64,30.36,long,6
+SKU-VCI39N,Saffron Select Dishwash Bar 3 x 200 g,Home Care,Dishwash,Saffron Select,3 x 200 g,50.0,42.84,7.16,long,24
+SKU-VD1CLG,Thanda Tonic Tender Coconut Water 200 ml,Beverages,Juices & Water,Thanda Tonic,200 ml,46.0,40.05,5.95,short,12
+SKU-VDETOX,Kheti Kanak Sona Masoori Rice 1 kg,Staples,Rice,Kheti Kanak,1 kg,65.0,58.8,6.2,long,6
+SKU-VFO43M,Chatpata Chef Potato Chips Classic Salted 115 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,115 g,55.0,45.26,9.74,short,6
+SKU-VG3XNQ,Phalwala Mango Drink 600 ml,Beverages,Juices & Water,Phalwala,600 ml,40.0,34.49,5.51,short,12
+SKU-VIU53A,ChaiCraft Premium Leaf Tea 250 g,Beverages,Tea,ChaiCraft,250 g,170.0,143.11,26.89,long,24
+SKU-VJOCBW,Dhaanya Sutra Toor Dal 1 kg,Staples,Pulses & Dals,Dhaanya Sutra,1 kg,155.0,143.75,11.25,long,6
+SKU-VJXHAW,Crunchwala Khatta Meetha Mix 200 g,Packaged Foods,Namkeen & Chips,Crunchwala,200 g,50.0,42.23,7.77,short,24
+SKU-VKCP5R,Bakeshala Plum Cake 400 g,Packaged Foods,Bakery & Cakes,Bakeshala,400 g,299.0,235.09,63.91,short,4
+SKU-VLRZ1G,SmoothEdge Twin Blade Disposable Razors 5 pcs,Personal Care,Men's Grooming,SmoothEdge,5 pcs,120.0,81.12,38.88,long,4
+SKU-VMGO0C,Saffron Select Masoor Dal 1 kg,Staples,Pulses & Dals,Saffron Select,1 kg,95.0,86.44,8.56,long,6
+SKU-VNJU38,Crunchwala Aloo Bhujia 400 g,Packaged Foods,Namkeen & Chips,Crunchwala,400 g,105.0,87.94,17.06,short,6
+SKU-VOL5W9,Kashmeer Crest Whole Cashews W320 500 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,500 g,519.0,423.17,95.83,long,3
+SKU-VP4DVN,ChaiCraft Premium Leaf Tea 1 kg,Beverages,Tea,ChaiCraft,1 kg,599.0,511.48,87.52,long,3
+SKU-VP8G5F,Komal Kaya Sanitary Pads XL 7 pads,Personal Care,Feminine Hygiene,Komal Kaya,7 pads,65.0,50.37,14.63,long,6
+SKU-VQ2PJR,Dabba Diaries Masala Instant Noodles 70 g,Packaged Foods,Noodles & Pasta,Dabba Diaries,70 g,15.0,12.96,2.04,short,24
+SKU-VQ7KDZ,Brewbay Rich Instant Coffee Pouch 50 g,Beverages,Coffee,Brewbay,50 g,165.0,140.12,24.88,long,6
+SKU-VRHDWR,Neem Nirmal Sunscreen SPF 50 50 g,Personal Care,Skin Care,Neem Nirmal,50 g,369.0,256.74,112.26,long,4
+SKU-VRR2R2,Saffron Select Air Freshener Spray 240 ml,Home Care,Household Essentials,Saffron Select,240 ml,170.0,129.97,40.03,long,6
+SKU-VRWDDN,Pavitra Path Pure Camphor Tablets 50 g,Puja & Festive,Puja Essentials,Pavitra Path,50 g,95.0,67.36,27.64,long,6
+SKU-VSRNXV,Balshakti Malt Health Drink Refill 1 kg,Beverages,Health Drinks,Balshakti,1 kg,449.0,393.8,55.2,long,4
+SKU-VTUJDG,Komal Kaya Moisturising Lip Balm 4.5 g,Personal Care,Skin Care,Komal Kaya,4.5 g,125.0,90.63,34.37,long,4
+SKU-VUC2BX,Sakhi Care Panty Liners 20 pcs,Personal Care,Feminine Hygiene,Sakhi Care,20 pcs,100.0,79.55,20.45,long,4
+SKU-VW330C,Rasoi Rang Turmeric Powder 200 g,Spices & Masalas,Ground Spices,Rasoi Rang,200 g,65.0,52.61,12.39,long,6
+SKU-VX6XLG,Machhar Mukt Vaporiser Machine + Refill 1 set,Home Care,Pest Control,Machhar Mukt,1 set,110.0,84.85,25.15,long,4
+SKU-VYPUJD,Prakash Plus Rechargeable LED Torch 1 pc,General Merchandise,Electricals,Prakash Plus,1 pc,299.0,201.41,97.59,long,4
+SKU-W5JNO8,Saffron Select Sona Masoori Rice 10 kg,Staples,Rice,Saffron Select,10 kg,529.0,488.05,40.95,long,3
+SKU-W6QCI7,Komal Kaya Anti-Dandruff Shampoo 340 ml,Personal Care,Hair Care,Komal Kaya,340 ml,369.0,283.45,85.55,long,4
+SKU-W7ESJV,Cocoa Kahani Assorted Chocolate Gift Box 400 g,Chocolates & Sweets,Chocolates & Confectionery,Cocoa Kahani,400 g,549.0,428.45,120.55,short,3
+SKU-W7N6YH,Sakhi Care Sanitary Pads XL 30 pads,Personal Care,Feminine Hygiene,Sakhi Care,30 pads,299.0,238.47,60.53,long,4
+SKU-W811LI,Saffron Select Fabric Conditioner 860 ml,Home Care,Laundry,Saffron Select,860 ml,200.0,166.1,33.9,long,6
+SKU-W8IJ2S,Malai Meadows Sweet Lassi 200 ml,Dairy & Frozen,Dairy & Chilled,Malai Meadows,200 ml,26.0,23.06,2.94,chilled,12
+SKU-WB2TM4,Nanhe Kadam Diaper Pants Large 32 pcs,Baby Care,Baby Care,Nanhe Kadam,32 pcs,699.0,583.02,115.98,long,3
+SKU-WC8LP3,Mithas Mahal Rasgulla Tin 1 kg,Chocolates & Sweets,Sweets & Mithai,Mithas Mahal,1 kg,229.0,178.65,50.35,short,6
+SKU-WCVUFI,Ayurmaa Glucose Powder Orange 500 g,Health & Wellness,Health & Wellness,Ayurmaa,500 g,160.0,129.23,30.77,long,4
+SKU-WGR412,FreshFolk Deodorant Spray Musk 150 ml,Personal Care,Men's Grooming,FreshFolk,150 ml,249.0,176.17,72.83,long,6
+SKU-WINQ2H,Komal Kaya Sandal Bathing Soap 4 x 100 g,Personal Care,Bath & Body,Komal Kaya,4 x 100 g,160.0,123.7,36.3,long,6
+SKU-WK83E2,Saffron Select Rice Bran Oil 1 L,Staples,Edible Oils,Saffron Select,1 L,140.0,129.94,10.06,long,6
+SKU-WKU762,FreshFolk Deodorant Spray Fresh Citrus 150 ml,Personal Care,Men's Grooming,FreshFolk,150 ml,259.0,177.7,81.3,long,4
+SKU-WO53N2,Sunehri Ghani Refined Sunflower Oil 1 L,Staples,Edible Oils,Sunehri Ghani,1 L,155.0,144.92,10.08,long,6
+SKU-WVQQUM,Rasoi Rang Chole Masala 100 g,Spices & Masalas,Ground Spices,Rasoi Rang,100 g,80.0,67.13,12.87,long,6
+SKU-WYAR9K,Zaika Zone Kasuri Methi 25 g,Spices & Masalas,Ground Spices,Zaika Zone,25 g,29.0,24.29,4.71,long,4
+SKU-WZI3D8,Bartan Bazaar Non-stick Tawa 1 pc,General Merchandise,Kitchenware,Bartan Bazaar,1 pc,539.0,358.72,180.28,long,3
+SKU-X3LZOX,Komal Kaya Herbal Shampoo 200 ml,Personal Care,Hair Care,Komal Kaya,200 ml,150.0,116.79,33.21,long,6
+SKU-X518QY,Prakash Plus Decorative LED String Lights 10 m,General Merchandise,Electricals,Prakash Plus,10 m,249.0,151.37,97.63,long,4
+SKU-X61LH6,Sunrise Bowl Fruit & Nut Muesli 500 g,Packaged Foods,Breakfast Cereals,Sunrise Bowl,500 g,379.0,329.7,49.3,short,4
+SKU-X7P2J3,Dabba Diaries Masala Instant Noodles 4 x 70 g,Packaged Foods,Noodles & Pasta,Dabba Diaries,4 x 70 g,65.0,57.02,7.98,short,24
+SKU-X7V0GU,Saffron Select Aluminium Foil 9 m,Home Care,Household Essentials,Saffron Select,9 m,85.0,60.82,24.18,long,6
+SKU-XADSDR,Dabba Diaries Gulab Jamun Mix 175 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Dabba Diaries,175 g,95.0,81.22,13.78,short,24
+SKU-XDI5NQ,ChamakMax Disinfectant Floor Cleaner 1 L,Home Care,Surface & Toilet Cleaners,ChamakMax,1 L,229.0,193.17,35.83,long,6
+SKU-XGA54Y,Thanda Tonic Energy Drink Can 250 ml,Beverages,Juices & Water,Thanda Tonic,250 ml,140.0,120.31,19.69,short,6
+SKU-XI3A7Z,ChaiCraft Masala Chai Blend 250 g,Beverages,Tea,ChaiCraft,250 g,155.0,134.04,20.96,long,4
+SKU-XI9T25,Crunchwala Potato Chips Classic Salted 115 g,Packaged Foods,Namkeen & Chips,Crunchwala,115 g,50.0,42.78,7.22,short,24
+SKU-XJ0XYX,Chatpata Chef Potato Chips Classic Salted 50 g,Packaged Foods,Namkeen & Chips,Chatpata Chef,50 g,20.0,16.56,3.44,short,24
+SKU-XMONR5,Dabba Diaries Roasted Vermicelli 400 g,Staples,Poha & Breakfast Staples,Dabba Diaries,400 g,42.0,36.65,5.35,long,6
+SKU-XQS760,FreshFolk Germ Protection Soap 3 x 125 g,Personal Care,Bath & Body,FreshFolk,3 x 125 g,140.0,109.42,30.58,long,6
+SKU-XU0SR4,Glowmitra Neem Face Wash 100 ml,Personal Care,Skin Care,Glowmitra,100 ml,145.0,98.51,46.49,long,4
+SKU-XV1YFG,Neem Nirmal Herbal Shampoo 200 ml,Personal Care,Hair Care,Neem Nirmal,200 ml,155.0,112.61,42.39,long,6
+SKU-XW7UOZ,Dhaanya Sutra Moong Dal 1 kg,Staples,Pulses & Dals,Dhaanya Sutra,1 kg,150.0,136.42,13.58,long,6
+SKU-XX0E6E,Komal Kaya Sanitary Pads XXL Overnight 15 pads,Personal Care,Feminine Hygiene,Komal Kaya,15 pads,195.0,151.67,43.33,long,6
+SKU-XX9IC4,Rasoi Rang Gulab Jamun Mix 175 g,Packaged Foods,Ready Mixes & Ready-to-Eat,Rasoi Rang,175 g,85.0,68.79,16.21,short,4
+SKU-XY9KOA,Masala Mehfil Coriander Powder 100 g,Spices & Masalas,Ground Spices,Masala Mehfil,100 g,34.0,28.16,5.84,long,6
+SKU-XYZFSO,Kohl & Co Matte Lipstick Ruby Red 3.5 g,Personal Care,Cosmetics,Kohl & Co,3.5 g,299.0,198.49,100.51,long,6
+SKU-Y0LWN0,Saffron Select Eggless Mayonnaise 250 g,Packaged Foods,"Sauces, Spreads & Pickles",Saffron Select,250 g,85.0,71.05,13.95,long,12
+SKU-Y5O5PV,Mithas Mahal Milk Peda 250 g,Chocolates & Sweets,Sweets & Mithai,Mithas Mahal,250 g,150.0,116.01,33.99,short,6
+SKU-Y66CIY,Gramin Sona Moong Dal 500 g,Staples,Pulses & Dals,Gramin Sona,500 g,70.0,64.08,5.92,long,10
+SKU-Y9NTBC,Neem Nirmal Cavity Protection Toothpaste 200 g,Personal Care,Oral Care,Neem Nirmal,200 g,115.0,91.8,23.2,long,6
+SKU-Y9NTRP,Dhaanya Sutra Idli Rice 1 kg,Staples,Rice,Dhaanya Sutra,1 kg,55.0,50.54,4.46,long,6
+SKU-YB28HW,Gramin Sona Bombay Rava (Sooji) 500 g,Staples,Atta & Flours,Gramin Sona,500 g,40.0,36.13,3.87,long,6
+SKU-YBX0SU,Malai Meadows Salted Butter 500 g,Dairy & Frozen,Dairy & Chilled,Malai Meadows,500 g,269.0,245.32,23.68,chilled,4
+SKU-YC515G,Neem Nirmal Cavity Protection Toothpaste 100 g,Personal Care,Oral Care,Neem Nirmal,100 g,65.0,49.09,15.91,long,24
+SKU-YCPO7F,Danta Shakti Cool Gel Toothpaste 150 g,Personal Care,Oral Care,Danta Shakti,150 g,125.0,94.23,30.77,long,24
+SKU-YDLLC6,Masala Mehfil Turmeric Powder 100 g,Spices & Masalas,Ground Spices,Masala Mehfil,100 g,31.0,25.63,5.37,long,6
+SKU-YDNMWH,Kohl & Co Matte Lipstick Berry Wine 3.5 g,Personal Care,Cosmetics,Kohl & Co,3.5 g,299.0,184.28,114.72,long,6
+SKU-YDPCJW,Dhaanya Sutra Toor Dal 500 g,Staples,Pulses & Dals,Dhaanya Sutra,500 g,90.0,83.67,6.33,long,10
+SKU-YJZI6E,Danta Shakti Antiseptic Mouthwash 250 ml,Personal Care,Oral Care,Danta Shakti,250 ml,175.0,139.19,35.81,long,6
+SKU-YKAMO1,Gramin Sona Sabudana 1 kg,Staples,Atta & Flours,Gramin Sona,1 kg,110.0,100.25,9.75,long,4
+SKU-YKBFHA,Komal Kaya Germ Protection Soap 3 x 125 g,Personal Care,Bath & Body,Komal Kaya,3 x 125 g,145.0,116.66,28.34,long,24
+SKU-YPRRBR,Ayurmaa Pain Relief Balm 8 ml,Health & Wellness,Health & Wellness,Ayurmaa,8 ml,45.0,35.83,9.17,long,4
+SKU-YRCBDB,Kheti Kanak Sabudana 1 kg,Staples,Atta & Flours,Kheti Kanak,1 kg,120.0,109.03,10.97,long,6
+SKU-YUARVJ,Saffron Select Kerala Matta Rice 5 kg,Staples,Rice,Saffron Select,5 kg,299.0,271.65,27.35,long,6
+SKU-YUTYE9,Neem Nirmal Moisturising Lip Balm 4.5 g,Personal Care,Skin Care,Neem Nirmal,4.5 g,125.0,90.26,34.74,long,6
+SKU-YUYLNM,Neem Nirmal Amla Hair Oil 200 ml,Personal Care,Hair Care,Neem Nirmal,200 ml,105.0,75.69,29.31,long,4
+SKU-YV9RQT,Gramin Sona Besan 500 g,Staples,Atta & Flours,Gramin Sona,500 g,60.0,55.35,4.65,long,6
+SKU-YWA2D9,Kashmeer Crest Roasted Makhana 100 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,100 g,140.0,113.38,26.62,long,4
+SKU-YZNZ7A,Ayurmaa Pure Honey 250 g,Health & Wellness,Health & Wellness,Ayurmaa,250 g,135.0,103.45,31.55,long,4
+SKU-YZW54B,Kashmeer Crest Dried Figs (Anjeer) 200 g,Dry Fruits & Nuts,Dry Fruits,Kashmeer Crest,200 g,329.0,267.62,61.38,long,4
+SKU-Z0SB1V,Glowmitra Cold Cream 200 ml,Personal Care,Skin Care,Glowmitra,200 ml,239.0,179.51,59.49,long,4
+SKU-Z1BFYJ,Rasoi Rang Black Pepper Whole 100 g,Spices & Masalas,Whole Spices,Rasoi Rang,100 g,120.0,95.26,24.74,long,6
+SKU-Z236CR,Kheti Kanak Refined Sunflower Oil 5 L,Staples,Edible Oils,Kheti Kanak,5 L,739.0,690.52,48.48,long,3
+SKU-Z278UX,Gramin Sona Iodised Salt 1 kg,Staples,"Sugar, Salt & Jaggery",Gramin Sona,1 kg,31.0,28.65,2.35,long,10
+SKU-Z3FS27,Ujjwal Wash Dishwash Bar 3 x 200 g,Home Care,Dishwash,Ujjwal Wash,3 x 200 g,70.0,60.41,9.59,long,24
+SKU-Z429B0,Aarti Aangan Herbal Gulal 4 x 100 g,Puja & Festive,Festive Seasonal,Aarti Aangan,4 x 100 g,160.0,96.92,63.08,long,4
+SKU-Z5GA1E,Ujjwal Wash Steel Wool Scrubber 3 pcs,Home Care,Dishwash,Ujjwal Wash,3 pcs,27.0,22.38,4.62,long,24
+SKU-Z5ORGR,Bubble Bunny Baby Powder 200 g,Baby Care,Baby Care,Bubble Bunny,200 g,209.0,174.4,34.6,long,4
+SKU-Z6KQ59,Chocobahar Sugar-free Mint Gum 9 pcs,Chocolates & Sweets,Chocolates & Confectionery,Chocobahar,9 pcs,27.0,21.21,5.79,short,6
+SKU-Z6XJO3,Fizzora Orange Soda 750 ml,Beverages,Soft Drinks,Fizzora,750 ml,40.0,34.66,5.34,short,24
+SKU-Z6YG2O,Shuddh Ghar Cockroach Spray 400 ml,Home Care,Pest Control,Shuddh Ghar,400 ml,259.0,204.02,54.98,long,6
+SKU-Z82L56,Neem Nirmal Day Cream SPF 15 50 g,Personal Care,Skin Care,Neem Nirmal,50 g,219.0,156.6,62.4,long,4
+SKU-Z9EHAE,Pustak Pro Gel Pens Assorted 5 pcs,General Merchandise,Stationery,Pustak Pro,5 pcs,70.0,48.77,21.23,long,4
+SKU-Z9G5QB,ChamakMax Dishwash Liquid Lemon 500 ml,Home Care,Dishwash,ChamakMax,500 ml,115.0,95.52,19.48,long,24
+SKU-ZAQN4A,Gramin Sona Kuttu Atta 500 g,Staples,Atta & Flours,Gramin Sona,500 g,100.0,89.71,10.29,long,4
+SKU-ZB172P,Gwala Fresh Salted Butter 500 g,Dairy & Frozen,Dairy & Chilled,Gwala Fresh,500 g,279.0,252.29,26.71,chilled,12
+SKU-ZEPEEW,Thanda Tonic Cola 2 L,Beverages,Soft Drinks,Thanda Tonic,2 L,105.0,88.63,16.37,short,24
+SKU-ZFPE87,Komal Kaya Deep Moisture Body Lotion 400 ml,Personal Care,Skin Care,Komal Kaya,400 ml,359.0,247.49,111.51,long,4
+SKU-ZGDUH6,Neem Nirmal Talcum Powder 300 g,Personal Care,Bath & Body,Neem Nirmal,300 g,199.0,163.4,35.6,long,24
+SKU-ZGIP5B,Zaika Zone Sambar Powder 100 g,Spices & Masalas,Ground Spices,Zaika Zone,100 g,60.0,49.78,10.22,long,6
+SKU-ZHB2GG,Nanhe Kadam Infant Formula Stage 1 400 g,Baby Care,Baby Care,Nanhe Kadam,400 g,479.0,408.3,70.7,long,6
+SKU-ZHTJKJ,Crunchwala Potato Chips Cream & Onion 115 g,Packaged Foods,Namkeen & Chips,Crunchwala,115 g,50.0,40.9,9.1,short,24
+SKU-ZMNWAW,Likhna Blue Ball Pens 10 pcs,General Merchandise,Stationery,Likhna,10 pcs,50.0,37.19,12.81,long,4
+SKU-ZPFY2I,Halwai House Rasgulla Tin 1 kg,Chocolates & Sweets,Sweets & Mithai,Halwai House,1 kg,239.0,180.03,58.97,short,4
+SKU-ZPKNED,WrapWell Air Freshener Spray 240 ml,Home Care,Household Essentials,WrapWell,240 ml,219.0,163.02,55.98,long,4
+SKU-ZQZPNK,Kheti Kanak Besan 500 g,Staples,Atta & Flours,Kheti Kanak,500 g,60.0,55.1,4.9,long,6
+SKU-ZR5C74,Ayurmaa Chyawanprash 500 g,Health & Wellness,Health & Wellness,Ayurmaa,500 g,219.0,176.25,42.75,long,6
+SKU-ZR84FG,Cocoa Kahani Fruit Toffee Jar 100 pcs,Chocolates & Sweets,Chocolates & Confectionery,Cocoa Kahani,100 pcs,150.0,121.05,28.95,short,6
+SKU-ZT94LQ,Badam Bagh Roasted Makhana 250 g,Dry Fruits & Nuts,Dry Fruits,Badam Bagh,250 g,329.0,261.06,67.94,long,6
+SKU-ZUXGHK,Saffron Select Sabudana 500 g,Staples,Atta & Flours,Saffron Select,500 g,55.0,50.58,4.42,long,6
+SKU-ZWDFI7,Kheti Kanak Multigrain Atta 5 kg,Staples,Atta & Flours,Kheti Kanak,5 kg,399.0,366.66,32.34,long,6
+SKU-ZY05MD,Chocobahar Fruit & Nut Chocolate 75 g,Chocolates & Sweets,Chocolates & Confectionery,Chocobahar,75 g,95.0,74.47,20.53,short,24
+SKU-ZY2F39,Shuddh Ghar Disinfectant Floor Cleaner 1 L,Home Care,Surface & Toilet Cleaners,Shuddh Ghar,1 L,209.0,172.32,36.68,long,12
+SKU-ZY3R1X,Utsav Ghar Herbal Gulal 4 x 100 g,Puja & Festive,Festive Seasonal,Utsav Ghar,4 x 100 g,145.0,95.13,49.87,long,4
